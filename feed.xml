@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Podcast Summaries</title>
+    <link>https://tdulkoski.github.io/podcast-feed</link>
+    <description>Audio versions of my podcast summaries.</description>
+    <language>en-us</language>
+    <item>
+      <title>Flirting With Models - Philip &amp; Allan Maymin – Compounding Through Risk, Not Return (S7E35)</title>
+      <guid isPermaLink="false">notion-3f70bbb0-ca77-811e-9ff7-c8eaba876b7c</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-811e-9ff7-c8eaba876b7c/3f70bbb0-ca77-811e-9ff7-c8eaba876b7c.mp3" length="7941888" type="audio/mpeg"/>
+      <itunes:duration>472</itunes:duration>
+    </item>
+    <item>
+      <title>Huberman Lab - How Food Choices Shape Memory, Cognition &amp; Cravings | Dr. Scott Kanoski</title>
+      <guid isPermaLink="false">notion-3f70bbb0-ca77-81b8-918d-ca7472b260ba</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-81b8-918d-ca7472b260ba/3f70bbb0-ca77-81b8-918d-ca7472b260ba.mp3" length="7229568" type="audio/mpeg"/>
+      <itunes:duration>411</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - Why Life Feels So Dull All The Time (and how to fix it) - Robert Greene</title>
+      <guid isPermaLink="false">notion-3f70bbb0-ca77-8184-be86-ce06ab6febac</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8184-be86-ce06ab6febac/3f70bbb0-ca77-8184-be86-ce06ab6febac.mp3" length="6788736" type="audio/mpeg"/>
+      <itunes:duration>433</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Codemoo: Demonstrating How Coding Agents Work | Real Python Podcast #314</title>
+      <guid isPermaLink="false">notion-3f40bbb0-ca77-81ff-949a-dd29273ea07d</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f40bbb0-ca77-81ff-949a-dd29273ea07d/3f40bbb0-ca77-81ff-949a-dd29273ea07d.mp3" length="5769600" type="audio/mpeg"/>
+      <itunes:duration>362</itunes:duration>
+    </item>
+    <item>
+      <title>Planet Money - Should we all be getting tariff refunds right now?</title>
+      <guid isPermaLink="false">notion-3f50bbb0-ca77-8106-a1b4-de634b470cb1</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f50bbb0-ca77-8106-a1b4-de634b470cb1/3f50bbb0-ca77-8106-a1b4-de634b470cb1.mp3" length="5053824" type="audio/mpeg"/>
+      <itunes:duration>319</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Space - Recursive Language Models — Alex Zhang, MIT PhD</title>
+      <guid isPermaLink="false">notion-3ed0bbb0-ca77-8147-b5ce-c89ec4a7f7da</guid>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3ed0bbb0-ca77-8147-b5ce-c89ec4a7f7da/3ed0bbb0-ca77-8147-b5ce-c89ec4a7f7da.mp3" length="7645440" type="audio/mpeg"/>
+      <itunes:duration>394</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Configuring a Versatile LLM Harness &amp; Scraping the Web With Scrapy  | Real Python Podcast #304</title>
+      <guid isPermaLink="false">notion-3a70bbb0-ca77-81b7-afc5-c764e53f909f</guid>
+      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3a70bbb0-ca77-81b7-afc5-c764e53f909f/3a70bbb0-ca77-81b7-afc5-c764e53f909f.mp3" length="6538368" type="audio/mpeg"/>
+      <itunes:duration>364</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Constructing and Judging Modern Agentic Workflows | Real Python Podcast #300</title>
+      <guid isPermaLink="false">notion-39d0bbb0-ca77-81b8-884e-c4444bbaf3e0</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-39d0bbb0-ca77-81b8-884e-c4444bbaf3e0/39d0bbb0-ca77-81b8-884e-c4444bbaf3e0.mp3" length="7413504" type="audio/mpeg"/>
+      <itunes:duration>410</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Testing MCP Servers With a Python MCP Client: Preparing &amp; Structuring Your MCP Client</title>
+      <guid isPermaLink="false">notion-3980bbb0-ca77-812a-bc56-ec59f20ba8e0</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3980bbb0-ca77-812a-bc56-ec59f20ba8e0/3980bbb0-ca77-812a-bc56-ec59f20ba8e0.mp3" length="6094080" type="audio/mpeg"/>
+      <itunes:duration>369</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Using LlamaIndex for RAG in Python: Setting Up &amp; Coding Indexing</title>
+      <guid isPermaLink="false">notion-38a0bbb0-ca77-81a0-8081-fc6392a2cb87</guid>
+      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-38a0bbb0-ca77-81a0-8081-fc6392a2cb87/38a0bbb0-ca77-81a0-8081-fc6392a2cb87.mp3" length="8961792" type="audio/mpeg"/>
+      <itunes:duration>521</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - The Brutal Side of Making It In Show Business - Zach Braff</title>
+      <guid isPermaLink="false">notion-3770bbb0-ca77-8138-871e-d5ae94d86291</guid>
+      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3770bbb0-ca77-8138-871e-d5ae94d86291/3770bbb0-ca77-8138-871e-d5ae94d86291.mp3" length="6294528" type="audio/mpeg"/>
+      <itunes:duration>407</itunes:duration>
+    </item>
+  </channel>
+</rss>
