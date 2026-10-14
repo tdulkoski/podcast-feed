@@ -12,6 +12,27 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Latent Space - Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics</title>
+      <guid isPermaLink="false">notion-3f80bbb0-ca77-81dc-bc16-d4da200763d2</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-81dc-bc16-d4da200763d2/3f80bbb0-ca77-81dc-bc16-d4da200763d2.mp3" length="6993408" type="audio/mpeg"/>
+      <itunes:duration>417</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Space - How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents</title>
+      <guid isPermaLink="false">notion-3f80bbb0-ca77-8111-aedb-c408cbd2d6f6</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-8111-aedb-c408cbd2d6f6/3f80bbb0-ca77-8111-aedb-c408cbd2d6f6.mp3" length="7122816" type="audio/mpeg"/>
+      <itunes:duration>441</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - How Muse Wonder Shifts the AI Landscape</title>
+      <guid isPermaLink="false">notion-3f80bbb0-ca77-8174-bdbe-c04acda9a724</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-8174-bdbe-c04acda9a724/3f80bbb0-ca77-8174-bdbe-c04acda9a724.mp3" length="6448512" type="audio/mpeg"/>
+      <itunes:duration>384</itunes:duration>
+    </item>
+    <item>
       <title>Flirting With Models - Philip &amp; Allan Maymin – Compounding Through Risk, Not Return (S7E35)</title>
       <guid isPermaLink="false">notion-3f70bbb0-ca77-811e-9ff7-c8eaba876b7c</guid>
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
