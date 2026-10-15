@@ -12,6 +12,20 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Windows Weekly - Nicely Frosted - Why Microsoft's Latest Event Left Us Baffled</title>
+      <guid isPermaLink="false">notion-3fa0bbb0-ca77-81b1-994c-d8c6b7cac5d4</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-81b1-994c-d8c6b7cac5d4/3fa0bbb0-ca77-81b1-994c-d8c6b7cac5d4.mp3" length="5256192" type="audio/mpeg"/>
+      <itunes:duration>304</itunes:duration>
+    </item>
+    <item>
+      <title>Intelligent Machines Podcast - Pants-based Benchmarks - GitHub’s Agent Revolution</title>
+      <guid isPermaLink="false">notion-3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4/3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4.mp3" length="6156288" type="audio/mpeg"/>
+      <itunes:duration>388</itunes:duration>
+    </item>
+    <item>
       <title>Animal Spirits - Are Higher Rates Worse Than ZIRP? | Animal Spirits 486</title>
       <guid isPermaLink="false">notion-3f90bbb0-ca77-8165-bce6-c883b97e4320</guid>
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
