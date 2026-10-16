@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Real Python - Python Pitfalls: Common Mistakes and How to Avoid Them | Real Python Podcast #315</title>
+      <guid isPermaLink="false">notion-3fb0bbb0-ca77-816f-91ad-e5b34c7e996b</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-816f-91ad-e5b34c7e996b/3fb0bbb0-ca77-816f-91ad-e5b34c7e996b.mp3" length="7703040" type="audio/mpeg"/>
+      <itunes:duration>440</itunes:duration>
+    </item>
+    <item>
       <title>AI capex</title>
       <guid isPermaLink="false">notion-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d</guid>
       <pubDate>Thu, 15 Oct 2026 23:27:00 +0000</pubDate>
