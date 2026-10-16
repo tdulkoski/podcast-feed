@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>AI capex</title>
+      <guid isPermaLink="false">notion-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d</guid>
+      <pubDate>Thu, 15 Oct 2026 23:27:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d/3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d.mp3" length="6283008" type="audio/mpeg"/>
+      <itunes:duration>353</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - Nicely Frosted - Why Microsoft's Latest Event Left Us Baffled</title>
       <guid isPermaLink="false">notion-3fa0bbb0-ca77-81b1-994c-d8c6b7cac5d4</guid>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
