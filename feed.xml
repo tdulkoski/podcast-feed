@@ -33,6 +33,20 @@
       <itunes:duration>457</itunes:duration>
     </item>
     <item>
+      <title>Planet Money - Anatomy of a movie market</title>
+      <guid isPermaLink="false">notion-3fc0bbb0-ca77-815c-8883-dcf7f471676c</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-815c-8883-dcf7f471676c/3fc0bbb0-ca77-815c-8883-dcf7f471676c.mp3" length="5208576" type="audio/mpeg"/>
+      <itunes:duration>334</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Space - High Taste Testers: OpenAI Shipped Everything. What Actually Works?</title>
+      <guid isPermaLink="false">notion-3fc0bbb0-ca77-81aa-b99e-fe756fd35536</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-81aa-b99e-fe756fd35536/3fc0bbb0-ca77-81aa-b99e-fe756fd35536.mp3" length="6436224" type="audio/mpeg"/>
+      <itunes:duration>409</itunes:duration>
+    </item>
+    <item>
       <title>AI capex</title>
       <guid isPermaLink="false">notion-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d</guid>
       <pubDate>Thu, 15 Oct 2026 23:27:00 +0000</pubDate>
