@@ -19,6 +19,20 @@
       <itunes:duration>440</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - The Most Important AI Model Announcements This Week</title>
+      <guid isPermaLink="false">notion-3fb0bbb0-ca77-819a-a894-e186563e02ac</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-819a-a894-e186563e02ac/3fb0bbb0-ca77-819a-a894-e186563e02ac.mp3" length="7215744" type="audio/mpeg"/>
+      <itunes:duration>418</itunes:duration>
+    </item>
+    <item>
+      <title>Freakonomics Radio - 691. Is This What a “Good Billionaire” Looks Like? | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-3fb0bbb0-ca77-81ed-bd85-eac9232d33f2</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-81ed-bd85-eac9232d33f2/3fb0bbb0-ca77-81ed-bd85-eac9232d33f2.mp3" length="7217280" type="audio/mpeg"/>
+      <itunes:duration>457</itunes:duration>
+    </item>
+    <item>
       <title>AI capex</title>
       <guid isPermaLink="false">notion-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d</guid>
       <pubDate>Thu, 15 Oct 2026 23:27:00 +0000</pubDate>
@@ -171,6 +185,13 @@
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8105-a609-eb427c818e66/3f70bbb0-ca77-8105-a609-eb427c818e66.mp3" length="6403584" type="audio/mpeg"/>
       <itunes:duration>374</itunes:duration>
+    </item>
+    <item>
+      <title>Freakonomics Radio - 690. It’s Show Business, Baby! | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6/3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6.mp3" length="5784960" type="audio/mpeg"/>
+      <itunes:duration>349</itunes:duration>
     </item>
     <item>
       <title>The AI Daily Brief - Consumers Will Never Pay for AI</title>
