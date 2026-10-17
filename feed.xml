@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Chris Williamson - Father Of Quantum Computing: How To Think Like A Genius - David Deutsch</title>
+      <guid isPermaLink="false">notion-3fc0bbb0-ca77-811b-b289-c7db8f2b486a</guid>
+      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-811b-b289-c7db8f2b486a/3fc0bbb0-ca77-811b-b289-c7db8f2b486a.mp3" length="6542208" type="audio/mpeg"/>
+      <itunes:duration>414</itunes:duration>
+    </item>
+    <item>
       <title>Real Python - Python Pitfalls: Common Mistakes and How to Avoid Them | Real Python Podcast #315</title>
       <guid isPermaLink="false">notion-3fb0bbb0-ca77-816f-91ad-e5b34c7e996b</guid>
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
