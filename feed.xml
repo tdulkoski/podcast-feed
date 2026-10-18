@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>The AI Daily Brief - A Potentially Historic AI Breakthrough</title>
+      <guid isPermaLink="false">notion-3fd0bbb0-ca77-81c5-9f34-e0b7fd6d4748</guid>
+      <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fd0bbb0-ca77-81c5-9f34-e0b7fd6d4748/3fd0bbb0-ca77-81c5-9f34-e0b7fd6d4748.mp3" length="6589824" type="audio/mpeg"/>
+      <itunes:duration>420</itunes:duration>
+    </item>
+    <item>
       <title>Chris Williamson - Father Of Quantum Computing: How To Think Like A Genius - David Deutsch</title>
       <guid isPermaLink="false">notion-3fc0bbb0-ca77-811b-b289-c7db8f2b486a</guid>
       <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
