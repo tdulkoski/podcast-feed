@@ -33,6 +33,20 @@
       <itunes:duration>546</itunes:duration>
     </item>
     <item>
+      <title>Real Python - 3 Claude Code Skills to Make Sense of AI Code</title>
+      <guid isPermaLink="false">notion-4000bbb0-ca77-81b2-84c5-d8b198f38a14</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-81b2-84c5-d8b198f38a14/4000bbb0-ca77-81b2-84c5-d8b198f38a14.mp3" length="4831104" type="audio/mpeg"/>
+      <itunes:duration>334</itunes:duration>
+    </item>
+    <item>
+      <title>Freakonomics Radio - Are Private Equity Firms Plundering the U.S. Economy? (Update) | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-4000bbb0-ca77-8140-8232-d51ec5309760</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-8140-8232-d51ec5309760/4000bbb0-ca77-8140-8232-d51ec5309760.mp3" length="7230720" type="audio/mpeg"/>
+      <itunes:duration>412</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - The Programmable Data Center — Evan Conrad, SF Compute</title>
       <guid isPermaLink="false">notion-3ff0bbb0-ca77-8139-9dca-dd4eec419c1f</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3980bbb0-ca77-812a-bc56-ec59f20ba8e0/3980bbb0-ca77-812a-bc56-ec59f20ba8e0.mp3" length="6094080" type="audio/mpeg"/>
       <itunes:duration>369</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Using LlamaIndex for RAG in Python: Setting Up &amp; Coding Indexing</title>
-      <guid isPermaLink="false">notion-38a0bbb0-ca77-81a0-8081-fc6392a2cb87</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-38a0bbb0-ca77-81a0-8081-fc6392a2cb87/38a0bbb0-ca77-81a0-8081-fc6392a2cb87.mp3" length="8961792" type="audio/mpeg"/>
-      <itunes:duration>521</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - The Brutal Side of Making It In Show Business - Zach Braff</title>
-      <guid isPermaLink="false">notion-3770bbb0-ca77-8138-871e-d5ae94d86291</guid>
-      <pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3770bbb0-ca77-8138-871e-d5ae94d86291/3770bbb0-ca77-8138-871e-d5ae94d86291.mp3" length="6294528" type="audio/mpeg"/>
-      <itunes:duration>407</itunes:duration>
     </item>
   </channel>
 </rss>
