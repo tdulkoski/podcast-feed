@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Latent Space - AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman &amp; CJ Hess</title>
+      <guid isPermaLink="false">notion-4000bbb0-ca77-81b2-97be-e94bc5359af2</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-81b2-97be-e94bc5359af2/4000bbb0-ca77-81b2-97be-e94bc5359af2.mp3" length="7456512" type="audio/mpeg"/>
+      <itunes:duration>464</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - The Programmable Data Center — Evan Conrad, SF Compute</title>
       <guid isPermaLink="false">notion-3ff0bbb0-ca77-8139-9dca-dd4eec419c1f</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
