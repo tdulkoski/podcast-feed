@@ -47,6 +47,13 @@
       <itunes:duration>412</itunes:duration>
     </item>
     <item>
+      <title>Every - How a Frontier Team Can Help Your Company Keep Up With AI</title>
+      <guid isPermaLink="false">notion-4000bbb0-ca77-81e8-a129-dffdc7850b6a</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-81e8-a129-dffdc7850b6a/4000bbb0-ca77-81e8-a129-dffdc7850b6a.mp3" length="5985408" type="audio/mpeg"/>
+      <itunes:duration>391</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - The Programmable Data Center — Evan Conrad, SF Compute</title>
       <guid isPermaLink="false">notion-3ff0bbb0-ca77-8139-9dca-dd4eec419c1f</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 14 Jul 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-39d0bbb0-ca77-81b8-884e-c4444bbaf3e0/39d0bbb0-ca77-81b8-884e-c4444bbaf3e0.mp3" length="7413504" type="audio/mpeg"/>
       <itunes:duration>410</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Testing MCP Servers With a Python MCP Client: Preparing &amp; Structuring Your MCP Client</title>
-      <guid isPermaLink="false">notion-3980bbb0-ca77-812a-bc56-ec59f20ba8e0</guid>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3980bbb0-ca77-812a-bc56-ec59f20ba8e0/3980bbb0-ca77-812a-bc56-ec59f20ba8e0.mp3" length="6094080" type="audio/mpeg"/>
-      <itunes:duration>369</itunes:duration>
     </item>
   </channel>
 </rss>
