@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Intelligent Machines Podcast - It All Comes Back to Cats - From Academic Papers to 1.2 Million Startup Ideas</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-8115-aaf9-ee9a809e4070</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-8115-aaf9-ee9a809e4070/4010bbb0-ca77-8115-aaf9-ee9a809e4070.mp3" length="5636736" type="audio/mpeg"/>
+      <itunes:duration>336</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman &amp; CJ Hess</title>
       <guid isPermaLink="false">notion-4000bbb0-ca77-81b2-97be-e94bc5359af2</guid>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
@@ -65,6 +72,13 @@
       <guid isPermaLink="false">notion-4010bbb0-ca77-8134-a42f-cfb991e0b885</guid>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-8134-a42f-cfb991e0b885/4010bbb0-ca77-8134-a42f-cfb991e0b885.mp3" length="7447296" type="audio/mpeg"/>
+      <itunes:duration>412</itunes:duration>
+    </item>
+    <item>
+      <title>Windows Weekly - Are You Lying to Me Now, Paul? - OmniBook Ultra 16, ProArt P16, &amp; Lenovo Pro 9n Impressions</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-817b-b0e5-e6c1abcd9dc6</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-817b-b0e5-e6c1abcd9dc6/4010bbb0-ca77-817b-b0e5-e6c1abcd9dc6.mp3" length="7148160" type="audio/mpeg"/>
       <itunes:duration>412</itunes:duration>
     </item>
     <item>
@@ -346,20 +360,6 @@
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8152-a096-fb86f4bea7f0/3f70bbb0-ca77-8152-a096-fb86f4bea7f0.mp3" length="6526080" type="audio/mpeg"/>
       <itunes:duration>373</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How to Choose Your Personal Agent</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-8124-b7d9-ca091eef116f</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8124-b7d9-ca091eef116f/3f70bbb0-ca77-8124-b7d9-ca091eef116f.mp3" length="5250048" type="audio/mpeg"/>
-      <itunes:duration>335</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - AI Agents Are Moving Into the Real World</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-81cb-ab1d-c18cb370b925</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-81cb-ab1d-c18cb370b925/3f70bbb0-ca77-81cb-ab1d-c18cb370b925.mp3" length="6232320" type="audio/mpeg"/>
-      <itunes:duration>387</itunes:duration>
     </item>
   </channel>
 </rss>
