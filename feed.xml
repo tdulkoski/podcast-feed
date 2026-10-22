@@ -61,6 +61,13 @@
       <itunes:duration>364</itunes:duration>
     </item>
     <item>
+      <title>Security Now - ECDSA's Curves Origins - When AI Becomes the Attacker</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-8134-a42f-cfb991e0b885</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-8134-a42f-cfb991e0b885/4010bbb0-ca77-8134-a42f-cfb991e0b885.mp3" length="7447296" type="audio/mpeg"/>
+      <itunes:duration>412</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - The Programmable Data Center — Evan Conrad, SF Compute</title>
       <guid isPermaLink="false">notion-3ff0bbb0-ca77-8139-9dca-dd4eec419c1f</guid>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
@@ -229,6 +236,13 @@
       <itunes:duration>276</itunes:duration>
     </item>
     <item>
+      <title>Security Now - Booby Trapping LLMs - AI Frenzy in Cybercrime</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-817e-9a5a-f163349de461</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-817e-9a5a-f163349de461/4010bbb0-ca77-817e-9a5a-f163349de461.mp3" length="8411904" type="audio/mpeg"/>
+      <itunes:duration>482</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics</title>
       <guid isPermaLink="false">notion-3f80bbb0-ca77-81dc-bc16-d4da200763d2</guid>
       <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-81cb-ab1d-c18cb370b925/3f70bbb0-ca77-81cb-ab1d-c18cb370b925.mp3" length="6232320" type="audio/mpeg"/>
       <itunes:duration>387</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Recursive Language Models — Alex Zhang, MIT PhD</title>
-      <guid isPermaLink="false">notion-3ed0bbb0-ca77-8147-b5ce-c89ec4a7f7da</guid>
-      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3ed0bbb0-ca77-8147-b5ce-c89ec4a7f7da/3ed0bbb0-ca77-8147-b5ce-c89ec4a7f7da.mp3" length="7645440" type="audio/mpeg"/>
-      <itunes:duration>394</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Configuring a Versatile LLM Harness &amp; Scraping the Web With Scrapy  | Real Python Podcast #304</title>
-      <guid isPermaLink="false">notion-3a70bbb0-ca77-81b7-afc5-c764e53f909f</guid>
-      <pubDate>Fri, 24 Jul 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3a70bbb0-ca77-81b7-afc5-c764e53f909f/3a70bbb0-ca77-81b7-afc5-c764e53f909f.mp3" length="6538368" type="audio/mpeg"/>
-      <itunes:duration>364</itunes:duration>
     </item>
   </channel>
 </rss>
