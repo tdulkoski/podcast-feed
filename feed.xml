@@ -19,6 +19,20 @@
       <itunes:duration>336</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - The Recommendation Engine for Commodity Traders — Anekha Sokhal, Moshi</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-8127-8e0c-ea60b06493fc</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-8127-8e0c-ea60b06493fc/4010bbb0-ca77-8127-8e0c-ea60b06493fc.mp3" length="6901248" type="audio/mpeg"/>
+      <itunes:duration>428</itunes:duration>
+    </item>
+    <item>
+      <title>Dwarkesh Patel - What will computer chips look like in 2045?</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-817a-989f-f7a2ba55b7fd</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-817a-989f-f7a2ba55b7fd/4010bbb0-ca77-817a-989f-f7a2ba55b7fd.mp3" length="5996160" type="audio/mpeg"/>
+      <itunes:duration>332</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman &amp; CJ Hess</title>
       <guid isPermaLink="false">notion-4000bbb0-ca77-81b2-97be-e94bc5359af2</guid>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6/3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6.mp3" length="5784960" type="audio/mpeg"/>
       <itunes:duration>349</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Consumers Will Never Pay for AI</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-813c-8e54-efee55f9e577</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-813c-8e54-efee55f9e577/3f70bbb0-ca77-813c-8e54-efee55f9e577.mp3" length="7062144" type="audio/mpeg"/>
-      <itunes:duration>420</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - America's Open Model Comeback Is Starting</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-8152-a096-fb86f4bea7f0</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8152-a096-fb86f4bea7f0/3f70bbb0-ca77-8152-a096-fb86f4bea7f0.mp3" length="6526080" type="audio/mpeg"/>
-      <itunes:duration>373</itunes:duration>
     </item>
   </channel>
 </rss>
