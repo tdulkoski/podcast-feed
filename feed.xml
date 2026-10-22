@@ -33,6 +33,20 @@
       <itunes:duration>332</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-8152-8b5c-e49b2ce59e5e</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-8152-8b5c-e49b2ce59e5e/4010bbb0-ca77-8152-8b5c-e49b2ce59e5e.mp3" length="7746048" type="audio/mpeg"/>
+      <itunes:duration>394</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - The Internet Is Making Men &amp; Women Hate Each Other - Daniel Cox</title>
+      <guid isPermaLink="false">notion-4010bbb0-ca77-81a2-a0b4-ea4dd62e0212</guid>
+      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-81a2-a0b4-ea4dd62e0212/4010bbb0-ca77-81a2-a0b4-ea4dd62e0212.mp3" length="6332160" type="audio/mpeg"/>
+      <itunes:duration>333</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - AI in NYC: How Tenex Builds an AI-Native Engineering Team — Alex Lieberman &amp; CJ Hess</title>
       <guid isPermaLink="false">notion-4000bbb0-ca77-81b2-97be-e94bc5359af2</guid>
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f50bbb0-ca77-8106-a1b4-de634b470cb1/3f50bbb0-ca77-8106-a1b4-de634b470cb1.mp3" length="5053824" type="audio/mpeg"/>
       <itunes:duration>319</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - The Best New AI Products and the Key Trends They Represent</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-8105-a609-eb427c818e66</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8105-a609-eb427c818e66/3f70bbb0-ca77-8105-a609-eb427c818e66.mp3" length="6403584" type="audio/mpeg"/>
-      <itunes:duration>374</itunes:duration>
-    </item>
-    <item>
-      <title>Freakonomics Radio - 690. It’s Show Business, Baby! | Freakonomics Radio</title>
-      <guid isPermaLink="false">notion-3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6/3fb0bbb0-ca77-8164-8307-ff3eb2f14bc6.mp3" length="5784960" type="audio/mpeg"/>
-      <itunes:duration>349</itunes:duration>
     </item>
   </channel>
 </rss>
