@@ -19,6 +19,34 @@
       <itunes:duration>478</itunes:duration>
     </item>
     <item>
+      <title>Real Python - Say Hello to Mentor AI – Your New Python &amp; AI Teacher</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-8141-bb68-e75987c069af</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-8141-bb68-e75987c069af/4020bbb0-ca77-8141-bb68-e75987c069af.mp3" length="1944576" type="audio/mpeg"/>
+      <itunes:duration>116</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Meet Mentor AI – Your New Python &amp; AI Learning Guide</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-81e6-ac75-cce14fb41c72</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81e6-ac75-cce14fb41c72/4020bbb0-ca77-81e6-ac75-cce14fb41c72.mp3" length="2227584" type="audio/mpeg"/>
+      <itunes:duration>137</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - How AI Agents Really Work: Build One in Plain Python</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-818e-8acb-d0d00f402ab4</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-818e-8acb-d0d00f402ab4/4020bbb0-ca77-818e-8acb-d0d00f402ab4.mp3" length="6444288" type="audio/mpeg"/>
+      <itunes:duration>371</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - The Future of Python Security: Trends, Challenges, and Solutions | Real Python Podcast #316</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-81cf-8493-ec3cdc8e8155</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81cf-8493-ec3cdc8e8155/4020bbb0-ca77-81cf-8493-ec3cdc8e8155.mp3" length="7675776" type="audio/mpeg"/>
+      <itunes:duration>392</itunes:duration>
+    </item>
+    <item>
       <title>Intelligent Machines Podcast - It All Comes Back to Cats - From Academic Papers to 1.2 Million Startup Ideas</title>
       <guid isPermaLink="false">notion-4010bbb0-ca77-8115-aaf9-ee9a809e4070</guid>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
@@ -332,34 +360,6 @@
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-81b8-918d-ca7472b260ba/3f70bbb0-ca77-81b8-918d-ca7472b260ba.mp3" length="7229568" type="audio/mpeg"/>
       <itunes:duration>411</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Why Life Feels So Dull All The Time (and how to fix it) - Robert Greene</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-8184-be86-ce06ab6febac</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8184-be86-ce06ab6febac/3f70bbb0-ca77-8184-be86-ce06ab6febac.mp3" length="6788736" type="audio/mpeg"/>
-      <itunes:duration>433</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How to Go from AI Power User to AI Leader</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-81db-a1e4-e9e91cd220f7</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-81db-a1e4-e9e91cd220f7/3f70bbb0-ca77-81db-a1e4-e9e91cd220f7.mp3" length="6825600" type="audio/mpeg"/>
-      <itunes:duration>429</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - The 5 Debates Shaping AI</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-8124-8da7-d4ec520956d7</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8124-8da7-d4ec520956d7/3f70bbb0-ca77-8124-8da7-d4ec520956d7.mp3" length="6822144" type="audio/mpeg"/>
-      <itunes:duration>398</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - AI’s First Full Field-Level Disruption</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-8195-9978-d9fc7f44874b</guid>
-      <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8195-9978-d9fc7f44874b/3f70bbb0-ca77-8195-9978-d9fc7f44874b.mp3" length="7549824" type="audio/mpeg"/>
-      <itunes:duration>428</itunes:duration>
     </item>
   </channel>
 </rss>
