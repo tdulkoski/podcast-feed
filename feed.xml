@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Freakonomics Radio - 692. What Will A.I. Do to (and for) Human Creativity? | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-81a4-87f5-dfa021dece27</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81a4-87f5-dfa021dece27/4020bbb0-ca77-81a4-87f5-dfa021dece27.mp3" length="8471424" type="audio/mpeg"/>
+      <itunes:duration>478</itunes:duration>
+    </item>
+    <item>
       <title>Intelligent Machines Podcast - It All Comes Back to Cats - From Academic Papers to 1.2 Million Startup Ideas</title>
       <guid isPermaLink="false">notion-4010bbb0-ca77-8115-aaf9-ee9a809e4070</guid>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Sun, 11 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-8195-9978-d9fc7f44874b/3f70bbb0-ca77-8195-9978-d9fc7f44874b.mp3" length="7549824" type="audio/mpeg"/>
       <itunes:duration>428</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Codemoo: Demonstrating How Coding Agents Work | Real Python Podcast #314</title>
-      <guid isPermaLink="false">notion-3f40bbb0-ca77-81ff-949a-dd29273ea07d</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f40bbb0-ca77-81ff-949a-dd29273ea07d/3f40bbb0-ca77-81ff-949a-dd29273ea07d.mp3" length="5769600" type="audio/mpeg"/>
-      <itunes:duration>362</itunes:duration>
     </item>
   </channel>
 </rss>
