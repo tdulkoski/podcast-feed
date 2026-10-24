@@ -47,6 +47,20 @@
       <itunes:duration>392</itunes:duration>
     </item>
     <item>
+      <title>Planet Money - How surveillance crept up on us</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-8151-926e-e133791bbba9</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-8151-926e-e133791bbba9/4020bbb0-ca77-8151-926e-e133791bbba9.mp3" length="6455808" type="audio/mpeg"/>
+      <itunes:duration>351</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - The AI Bubble Signals Worth Worrying About</title>
+      <guid isPermaLink="false">notion-4020bbb0-ca77-81bb-96e8-cff098fd1096</guid>
+      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81bb-96e8-cff098fd1096/4020bbb0-ca77-81bb-96e8-cff098fd1096.mp3" length="8088576" type="audio/mpeg"/>
+      <itunes:duration>420</itunes:duration>
+    </item>
+    <item>
       <title>Intelligent Machines Podcast - It All Comes Back to Cats - From Academic Papers to 1.2 Million Startup Ideas</title>
       <guid isPermaLink="false">notion-4010bbb0-ca77-8115-aaf9-ee9a809e4070</guid>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-8174-bdbe-c04acda9a724/3f80bbb0-ca77-8174-bdbe-c04acda9a724.mp3" length="6448512" type="audio/mpeg"/>
       <itunes:duration>384</itunes:duration>
-    </item>
-    <item>
-      <title>Flirting With Models - Philip &amp; Allan Maymin – Compounding Through Risk, Not Return (S7E35)</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-811e-9ff7-c8eaba876b7c</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-811e-9ff7-c8eaba876b7c/3f70bbb0-ca77-811e-9ff7-c8eaba876b7c.mp3" length="7941888" type="audio/mpeg"/>
-      <itunes:duration>472</itunes:duration>
-    </item>
-    <item>
-      <title>Huberman Lab - How Food Choices Shape Memory, Cognition &amp; Cravings | Dr. Scott Kanoski</title>
-      <guid isPermaLink="false">notion-3f70bbb0-ca77-81b8-918d-ca7472b260ba</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f70bbb0-ca77-81b8-918d-ca7472b260ba/3f70bbb0-ca77-81b8-918d-ca7472b260ba.mp3" length="7229568" type="audio/mpeg"/>
-      <itunes:duration>411</itunes:duration>
     </item>
   </channel>
 </rss>
