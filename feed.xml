@@ -19,6 +19,13 @@
       <itunes:duration>350</itunes:duration>
     </item>
     <item>
+      <title>EconTalk - The Great Fertility Collapse (with Jesus Fernandez-Villaverde) 10/12/26</title>
+      <guid isPermaLink="false">notion-4050bbb0-ca77-811d-b7c4-e1a251db3faa</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-811d-b7c4-e1a251db3faa/4050bbb0-ca77-811d-b7c4-e1a251db3faa.mp3" length="7363200" type="audio/mpeg"/>
+      <itunes:duration>378</itunes:duration>
+    </item>
+    <item>
       <title>Chris Williamson - Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman</title>
       <guid isPermaLink="false">notion-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe</guid>
       <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-817e-9a5a-f163349de461/4010bbb0-ca77-817e-9a5a-f163349de461.mp3" length="8411904" type="audio/mpeg"/>
       <itunes:duration>482</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Robots That Predict the Future: Dyna-2 &amp; Physical AI — Jason Ma, Dyna Robotics</title>
-      <guid isPermaLink="false">notion-3f80bbb0-ca77-81dc-bc16-d4da200763d2</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-81dc-bc16-d4da200763d2/3f80bbb0-ca77-81dc-bc16-d4da200763d2.mp3" length="6993408" type="audio/mpeg"/>
-      <itunes:duration>417</itunes:duration>
     </item>
   </channel>
 </rss>
