@@ -33,6 +33,27 @@
       <itunes:duration>356</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio</title>
+      <guid isPermaLink="false">notion-4050bbb0-ca77-8154-a81b-f80af0ecc0cd</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-8154-a81b-f80af0ecc0cd/4050bbb0-ca77-8154-a81b-f80af0ecc0cd.mp3" length="6216960" type="audio/mpeg"/>
+      <itunes:duration>360</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - Crypto Scams, Dopamine Websites, Tasteful Slop &amp; Vape Shop Energy - Rabbit Hole #6</title>
+      <guid isPermaLink="false">notion-4050bbb0-ca77-810d-bb2f-cae83bede43c</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-810d-bb2f-cae83bede43c/4050bbb0-ca77-810d-bb2f-cae83bede43c.mp3" length="8617344" type="audio/mpeg"/>
+      <itunes:duration>462</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - How I m Actually Using Claude Duet</title>
+      <guid isPermaLink="false">notion-4050bbb0-ca77-819a-8637-eea2cf50c0f9</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-819a-8637-eea2cf50c0f9/4050bbb0-ca77-819a-8637-eea2cf50c0f9.mp3" length="7873152" type="audio/mpeg"/>
+      <itunes:duration>424</itunes:duration>
+    </item>
+    <item>
       <title>Chris Williamson - Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman</title>
       <guid isPermaLink="false">notion-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe</guid>
       <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
@@ -339,27 +360,6 @@
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f90bbb0-ca77-81b7-9615-dd54375af8b9/3f90bbb0-ca77-81b7-9615-dd54375af8b9.mp3" length="6633600" type="audio/mpeg"/>
       <itunes:duration>412</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Where Gemini 4 Argon Fits</title>
-      <guid isPermaLink="false">notion-3f90bbb0-ca77-81c7-96d1-c23345dad45e</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f90bbb0-ca77-81c7-96d1-c23345dad45e/3f90bbb0-ca77-81c7-96d1-c23345dad45e.mp3" length="6367104" type="audio/mpeg"/>
-      <itunes:duration>387</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - From Wet Lab to RL Env: 10,000 Drug-Discovery Campaigns in a Weekend — Ian Quigley, Leash Bio</title>
-      <guid isPermaLink="false">notion-3f90bbb0-ca77-81f9-b4e7-e01f23d47af0</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f90bbb0-ca77-81f9-b4e7-e01f23d47af0/3f90bbb0-ca77-81f9-b4e7-e01f23d47af0.mp3" length="6745344" type="audio/mpeg"/>
-      <itunes:duration>373</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - Wanna slow down AI? These biologists can help.</title>
-      <guid isPermaLink="false">notion-3fa0bbb0-ca77-81b1-94fc-f1f58f52d7ab</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-81b1-94fc-f1f58f52d7ab/3fa0bbb0-ca77-81b1-94fc-f1f58f52d7ab.mp3" length="4560000" type="audio/mpeg"/>
-      <itunes:duration>276</itunes:duration>
     </item>
   </channel>
 </rss>
