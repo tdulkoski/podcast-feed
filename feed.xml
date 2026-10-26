@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Peter Attia, MD - 413 ‒ The neuroscience of emotion: challenging conventional theories of emotion and much more</title>
+      <guid isPermaLink="false">notion-4050bbb0-ca77-81b8-bc56-e8a40e650139</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-81b8-bc56-e8a40e650139/4050bbb0-ca77-81b8-bc56-e8a40e650139.mp3" length="6283392" type="audio/mpeg"/>
+      <itunes:duration>350</itunes:duration>
+    </item>
+    <item>
       <title>Chris Williamson - Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman</title>
       <guid isPermaLink="false">notion-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe</guid>
       <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-81dc-bc16-d4da200763d2/3f80bbb0-ca77-81dc-bc16-d4da200763d2.mp3" length="6993408" type="audio/mpeg"/>
       <itunes:duration>417</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - How to kill your SaaS: what we learned replacing a $43K/yr tool with AI agents</title>
-      <guid isPermaLink="false">notion-3f80bbb0-ca77-8111-aedb-c408cbd2d6f6</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f80bbb0-ca77-8111-aedb-c408cbd2d6f6/3f80bbb0-ca77-8111-aedb-c408cbd2d6f6.mp3" length="7122816" type="audio/mpeg"/>
-      <itunes:duration>441</itunes:duration>
     </item>
   </channel>
 </rss>
