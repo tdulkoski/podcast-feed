@@ -54,6 +54,13 @@
       <itunes:duration>424</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - 4 Questions for AI This Week</title>
+      <guid isPermaLink="false">notion-4050bbb0-ca77-8188-83db-ec5d445c584c</guid>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-8188-83db-ec5d445c584c/4050bbb0-ca77-8188-83db-ec5d445c584c.mp3" length="6125184" type="audio/mpeg"/>
+      <itunes:duration>364</itunes:duration>
+    </item>
+    <item>
       <title>Chris Williamson - Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman</title>
       <guid isPermaLink="false">notion-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe</guid>
       <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f90bbb0-ca77-8165-bce6-c883b97e4320/3f90bbb0-ca77-8165-bce6-c883b97e4320.mp3" length="7354752" type="audio/mpeg"/>
       <itunes:duration>414</itunes:duration>
-    </item>
-    <item>
-      <title>Every - How Hugging Face’s Investor Spots Winners</title>
-      <guid isPermaLink="false">notion-3f90bbb0-ca77-81b7-9615-dd54375af8b9</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f90bbb0-ca77-81b7-9615-dd54375af8b9/3f90bbb0-ca77-81b7-9615-dd54375af8b9.mp3" length="6633600" type="audio/mpeg"/>
-      <itunes:duration>412</itunes:duration>
     </item>
   </channel>
 </rss>
