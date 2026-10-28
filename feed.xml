@@ -33,6 +33,13 @@
       <itunes:duration>381</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - AI Creates Worlds</title>
+      <guid isPermaLink="false">notion-4070bbb0-ca77-8192-8ecf-d679755f7af5</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-8192-8ecf-d679755f7af5/4070bbb0-ca77-8192-8ecf-d679755f7af5.mp3" length="6767616" type="audio/mpeg"/>
+      <itunes:duration>371</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang</title>
       <guid isPermaLink="false">notion-4060bbb0-ca77-8138-9209-c3058c423556</guid>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-81aa-b99e-fe756fd35536/3fc0bbb0-ca77-81aa-b99e-fe756fd35536.mp3" length="6436224" type="audio/mpeg"/>
       <itunes:duration>409</itunes:duration>
-    </item>
-    <item>
-      <title>AI capex</title>
-      <guid isPermaLink="false">notion-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d</guid>
-      <pubDate>Thu, 15 Oct 2026 23:27:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d/3fa0bbb0-ca77-80ea-959d-c7eceeb67b4d.mp3" length="6283008" type="audio/mpeg"/>
-      <itunes:duration>353</itunes:duration>
     </item>
   </channel>
 </rss>
