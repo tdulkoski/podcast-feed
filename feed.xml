@@ -19,6 +19,13 @@
       <itunes:duration>342</itunes:duration>
     </item>
     <item>
+      <title>Animal Spirits - Why Baby Boomers Have All the Money | Animal Spirits 488</title>
+      <guid isPermaLink="false">notion-4070bbb0-ca77-81e4-ab08-e9ea9fc52afd</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81e4-ab08-e9ea9fc52afd/4070bbb0-ca77-81e4-ab08-e9ea9fc52afd.mp3" length="8014080" type="audio/mpeg"/>
+      <itunes:duration>397</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang</title>
       <guid isPermaLink="false">notion-4060bbb0-ca77-8138-9209-c3058c423556</guid>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-81b1-994c-d8c6b7cac5d4/3fa0bbb0-ca77-81b1-994c-d8c6b7cac5d4.mp3" length="5256192" type="audio/mpeg"/>
       <itunes:duration>304</itunes:duration>
-    </item>
-    <item>
-      <title>Intelligent Machines Podcast - Pants-based Benchmarks - GitHub’s Agent Revolution</title>
-      <guid isPermaLink="false">notion-3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4/3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4.mp3" length="6156288" type="audio/mpeg"/>
-      <itunes:duration>388</itunes:duration>
     </item>
   </channel>
 </rss>
