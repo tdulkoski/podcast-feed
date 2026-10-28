@@ -12,6 +12,20 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Latent Space - How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang</title>
+      <guid isPermaLink="false">notion-4060bbb0-ca77-8138-9209-c3058c423556</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4060bbb0-ca77-8138-9209-c3058c423556/4060bbb0-ca77-8138-9209-c3058c423556.mp3" length="9844992" type="audio/mpeg"/>
+      <itunes:duration>505</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - Everything Important in Anthropic s IPO Prospectus</title>
+      <guid isPermaLink="false">notion-4060bbb0-ca77-8108-a72b-c5dcebe44b1c</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4060bbb0-ca77-8108-a72b-c5dcebe44b1c/4060bbb0-ca77-8108-a72b-c5dcebe44b1c.mp3" length="7887360" type="audio/mpeg"/>
+      <itunes:duration>391</itunes:duration>
+    </item>
+    <item>
       <title>Peter Attia, MD - 413 ‒ The neuroscience of emotion: challenging conventional theories of emotion and much more</title>
       <guid isPermaLink="false">notion-4050bbb0-ca77-81b8-bc56-e8a40e650139</guid>
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-810f-8004-cb0c4f5b0dec/3fa0bbb0-ca77-810f-8004-cb0c4f5b0dec.mp3" length="6545664" type="audio/mpeg"/>
       <itunes:duration>420</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How the Latest AI Model Jump is Disrupting Business Models</title>
-      <guid isPermaLink="false">notion-3fb0bbb0-ca77-8136-a7ef-cc90b293ce61</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-8136-a7ef-cc90b293ce61/3fb0bbb0-ca77-8136-a7ef-cc90b293ce61.mp3" length="6995712" type="audio/mpeg"/>
-      <itunes:duration>397</itunes:duration>
-    </item>
-    <item>
-      <title>Animal Spirits - Are Higher Rates Worse Than ZIRP? | Animal Spirits 486</title>
-      <guid isPermaLink="false">notion-3f90bbb0-ca77-8165-bce6-c883b97e4320</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3f90bbb0-ca77-8165-bce6-c883b97e4320/3f90bbb0-ca77-8165-bce6-c883b97e4320.mp3" length="7354752" type="audio/mpeg"/>
-      <itunes:duration>414</itunes:duration>
     </item>
   </channel>
 </rss>
