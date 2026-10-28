@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Security Now - A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title>
+      <guid isPermaLink="false">notion-4070bbb0-ca77-8198-a059-f43ca333f61f</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-8198-a059-f43ca333f61f/4070bbb0-ca77-8198-a059-f43ca333f61f.mp3" length="6720768" type="audio/mpeg"/>
+      <itunes:duration>342</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang</title>
       <guid isPermaLink="false">notion-4060bbb0-ca77-8138-9209-c3058c423556</guid>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4/3fa0bbb0-ca77-81a2-b3c0-c1ba9c925fc4.mp3" length="6156288" type="audio/mpeg"/>
       <itunes:duration>388</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - 9 Decisions That Solve 90% Of Your Problems (at any age) - Shaan Puri</title>
-      <guid isPermaLink="false">notion-3fa0bbb0-ca77-810f-8004-cb0c4f5b0dec</guid>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fa0bbb0-ca77-810f-8004-cb0c4f5b0dec/3fa0bbb0-ca77-810f-8004-cb0c4f5b0dec.mp3" length="6545664" type="audio/mpeg"/>
-      <itunes:duration>420</itunes:duration>
     </item>
   </channel>
 </rss>
