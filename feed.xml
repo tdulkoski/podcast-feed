@@ -26,6 +26,13 @@
       <itunes:duration>376</itunes:duration>
     </item>
     <item>
+      <title>Chris Williamson - 35 Emotions Explained By Evolutionary Psychology - Rob Kurzban</title>
+      <guid isPermaLink="false">notion-4080bbb0-ca77-8167-844f-dc16f5d7da17</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-8167-844f-dc16f5d7da17/4080bbb0-ca77-8167-844f-dc16f5d7da17.mp3" length="6457728" type="audio/mpeg"/>
+      <itunes:duration>396</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title>
       <guid isPermaLink="false">notion-4070bbb0-ca77-8198-a059-f43ca333f61f</guid>
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Sun, 18 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fd0bbb0-ca77-81c5-9f34-e0b7fd6d4748/3fd0bbb0-ca77-81c5-9f34-e0b7fd6d4748.mp3" length="6589824" type="audio/mpeg"/>
       <itunes:duration>420</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Father Of Quantum Computing: How To Think Like A Genius - David Deutsch</title>
-      <guid isPermaLink="false">notion-3fc0bbb0-ca77-811b-b289-c7db8f2b486a</guid>
-      <pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-811b-b289-c7db8f2b486a/3fc0bbb0-ca77-811b-b289-c7db8f2b486a.mp3" length="6542208" type="audio/mpeg"/>
-      <itunes:duration>414</itunes:duration>
     </item>
   </channel>
 </rss>
