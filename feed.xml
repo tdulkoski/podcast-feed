@@ -40,6 +40,20 @@
       <itunes:duration>371</itunes:duration>
     </item>
     <item>
+      <title>Every - Can You Use AI To Make Good Art? — With Fred Graver</title>
+      <guid isPermaLink="false">notion-4070bbb0-ca77-81a4-ba85-ed3fae4bf446</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81a4-ba85-ed3fae4bf446/4070bbb0-ca77-81a4-ba85-ed3fae4bf446.mp3" length="5547264" type="audio/mpeg"/>
+      <itunes:duration>347</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Space - Why Agents Love Supabase — with Paul Copplestone and Ant Wilson</title>
+      <guid isPermaLink="false">notion-4070bbb0-ca77-81c5-b35f-f5318d557985</guid>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81c5-b35f-f5318d557985/4070bbb0-ca77-81c5-b35f-f5318d557985.mp3" length="6607872" type="audio/mpeg"/>
+      <itunes:duration>364</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang</title>
       <guid isPermaLink="false">notion-4060bbb0-ca77-8138-9209-c3058c423556</guid>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fb0bbb0-ca77-81ed-bd85-eac9232d33f2/3fb0bbb0-ca77-81ed-bd85-eac9232d33f2.mp3" length="7217280" type="audio/mpeg"/>
       <itunes:duration>457</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - Anatomy of a movie market</title>
-      <guid isPermaLink="false">notion-3fc0bbb0-ca77-815c-8883-dcf7f471676c</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-815c-8883-dcf7f471676c/3fc0bbb0-ca77-815c-8883-dcf7f471676c.mp3" length="5208576" type="audio/mpeg"/>
-      <itunes:duration>334</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - High Taste Testers: OpenAI Shipped Everything. What Actually Works?</title>
-      <guid isPermaLink="false">notion-3fc0bbb0-ca77-81aa-b99e-fe756fd35536</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fc0bbb0-ca77-81aa-b99e-fe756fd35536/3fc0bbb0-ca77-81aa-b99e-fe756fd35536.mp3" length="6436224" type="audio/mpeg"/>
-      <itunes:duration>409</itunes:duration>
     </item>
   </channel>
 </rss>
