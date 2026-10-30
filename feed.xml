@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Freakonomics Radio - 693. What’s Our Job as Humans Anymore? | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-4090bbb0-ca77-8183-a6f9-d3b57559b874</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4090bbb0-ca77-8183-a6f9-d3b57559b874/4090bbb0-ca77-8183-a6f9-d3b57559b874.mp3" length="6663552" type="audio/mpeg"/>
+      <itunes:duration>403</itunes:duration>
+    </item>
+    <item>
       <title>Intelligent Machines Podcast - Ghosting Meta Muse - Will Cloud Spending Sink AI’s Biggest Players?</title>
       <guid isPermaLink="false">notion-4080bbb0-ca77-81ce-9d27-feca4291cdce</guid>
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fe0bbb0-ca77-817d-9303-fe1318142664/3fe0bbb0-ca77-817d-9303-fe1318142664.mp3" length="5514624" type="audio/mpeg"/>
       <itunes:duration>330</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Meta Gives Away Its Strongest AI Model | The Week in AI</title>
-      <guid isPermaLink="false">notion-3fe0bbb0-ca77-81c8-8d57-d8e9f4837d5d</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fe0bbb0-ca77-81c8-8d57-d8e9f4837d5d/3fe0bbb0-ca77-81c8-8d57-d8e9f4837d5d.mp3" length="5768064" type="audio/mpeg"/>
-      <itunes:duration>353</itunes:duration>
     </item>
   </channel>
 </rss>
