@@ -19,6 +19,20 @@
       <itunes:duration>403</itunes:duration>
     </item>
     <item>
+      <title>Dwarkesh Patel - What Robert Caro learned about power after studying it for 50 years</title>
+      <guid isPermaLink="false">notion-4090bbb0-ca77-817f-bb97-f3a436f5fc26</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4090bbb0-ca77-817f-bb97-f3a436f5fc26/4090bbb0-ca77-817f-bb97-f3a436f5fc26.mp3" length="5386752" type="audio/mpeg"/>
+      <itunes:duration>350</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Demystifying Python Memory Management &amp; Choosing a Project Layout | Real Python Podcast #317</title>
+      <guid isPermaLink="false">notion-4090bbb0-ca77-81d2-9e6b-d702cb1d79a1</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4090bbb0-ca77-81d2-9e6b-d702cb1d79a1/4090bbb0-ca77-81d2-9e6b-d702cb1d79a1.mp3" length="8221056" type="audio/mpeg"/>
+      <itunes:duration>468</itunes:duration>
+    </item>
+    <item>
       <title>Intelligent Machines Podcast - Ghosting Meta Muse - Will Cloud Spending Sink AI’s Biggest Players?</title>
       <guid isPermaLink="false">notion-4080bbb0-ca77-81ce-9d27-feca4291cdce</guid>
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fe0bbb0-ca77-8137-957e-e2f5b1456814/3fe0bbb0-ca77-8137-957e-e2f5b1456814.mp3" length="5907072" type="audio/mpeg"/>
       <itunes:duration>340</itunes:duration>
-    </item>
-    <item>
-      <title>Huberman Lab - What Makes Great Leaders &amp; How to Live an Extraordinary Life | Dr. Jared Diamond</title>
-      <guid isPermaLink="false">notion-3fe0bbb0-ca77-815c-bf16-ca3441090f34</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fe0bbb0-ca77-815c-bf16-ca3441090f34/3fe0bbb0-ca77-815c-bf16-ca3441090f34.mp3" length="5596032" type="audio/mpeg"/>
-      <itunes:duration>347</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Forgotten War Heroes Who Changed The World - The Fat Electrician</title>
-      <guid isPermaLink="false">notion-3fe0bbb0-ca77-817d-9303-fe1318142664</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fe0bbb0-ca77-817d-9303-fe1318142664/3fe0bbb0-ca77-817d-9303-fe1318142664.mp3" length="5514624" type="audio/mpeg"/>
-      <itunes:duration>330</itunes:duration>
     </item>
   </channel>
 </rss>
