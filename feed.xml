@@ -33,6 +33,13 @@
       <itunes:duration>468</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - How the Most AI Pilled Company in the World Works</title>
+      <guid isPermaLink="false">notion-4090bbb0-ca77-8173-9a98-e74dd35a21c6</guid>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4090bbb0-ca77-8173-9a98-e74dd35a21c6/4090bbb0-ca77-8173-9a98-e74dd35a21c6.mp3" length="7910784" type="audio/mpeg"/>
+      <itunes:duration>484</itunes:duration>
+    </item>
+    <item>
       <title>Intelligent Machines Podcast - Ghosting Meta Muse - Will Cloud Spending Sink AI’s Biggest Players?</title>
       <guid isPermaLink="false">notion-4080bbb0-ca77-81ce-9d27-feca4291cdce</guid>
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3ff0bbb0-ca77-81d7-af8b-e9db2558c75e/3ff0bbb0-ca77-81d7-af8b-e9db2558c75e.mp3" length="5885952" type="audio/mpeg"/>
       <itunes:duration>349</itunes:duration>
-    </item>
-    <item>
-      <title>Peter Attia, MD - 412 ‒ The evolving science of cancer: emerging approaches to prevention and early detection, &amp; more</title>
-      <guid isPermaLink="false">notion-3fe0bbb0-ca77-8137-957e-e2f5b1456814</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3fe0bbb0-ca77-8137-957e-e2f5b1456814/3fe0bbb0-ca77-8137-957e-e2f5b1456814.mp3" length="5907072" type="audio/mpeg"/>
-      <itunes:duration>340</itunes:duration>
     </item>
   </channel>
 </rss>
