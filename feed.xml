@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Planet Money - Is this how the great international borrowing spree ends?</title>
+      <guid isPermaLink="false">notion-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4</guid>
+      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4/40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4.mp3" length="5831808" type="audio/mpeg"/>
+      <itunes:duration>345</itunes:duration>
+    </item>
+    <item>
       <title>Freakonomics Radio - 693. What’s Our Job as Humans Anymore? | Freakonomics Radio</title>
       <guid isPermaLink="false">notion-4090bbb0-ca77-8183-a6f9-d3b57559b874</guid>
       <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3ff0bbb0-ca77-8139-9dca-dd4eec419c1f/3ff0bbb0-ca77-8139-9dca-dd4eec419c1f.mp3" length="5873664" type="audio/mpeg"/>
       <itunes:duration>368</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Why AI Companies Are Betting Personality Beats Intelligence</title>
-      <guid isPermaLink="false">notion-3ff0bbb0-ca77-81d7-af8b-e9db2558c75e</guid>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-3ff0bbb0-ca77-81d7-af8b-e9db2558c75e/3ff0bbb0-ca77-81d7-af8b-e9db2558c75e.mp3" length="5885952" type="audio/mpeg"/>
-      <itunes:duration>349</itunes:duration>
     </item>
   </channel>
 </rss>
