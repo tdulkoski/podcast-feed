@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Peter Attia, MD - 414 ‒ Resistance training as we age: exercise selection, training intensity, and much more</title>
+      <guid isPermaLink="false">notion-40c0bbb0-ca77-8126-93c1-f2a0a302a134</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-8126-93c1-f2a0a302a134/40c0bbb0-ca77-8126-93c1-f2a0a302a134.mp3" length="6648576" type="audio/mpeg"/>
+      <itunes:duration>405</itunes:duration>
+    </item>
+    <item>
       <title>Planet Money - Is this how the great international borrowing spree ends?</title>
       <guid isPermaLink="false">notion-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4</guid>
       <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-81e8-a129-dffdc7850b6a/4000bbb0-ca77-81e8-a129-dffdc7850b6a.mp3" length="5985408" type="audio/mpeg"/>
       <itunes:duration>391</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - What Scorpion Antivenom Says About the Future of AI</title>
-      <guid isPermaLink="false">notion-4000bbb0-ca77-813f-a42d-d94bb1262db5</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-813f-a42d-d94bb1262db5/4000bbb0-ca77-813f-a42d-d94bb1262db5.mp3" length="6108288" type="audio/mpeg"/>
-      <itunes:duration>364</itunes:duration>
     </item>
   </channel>
 </rss>
