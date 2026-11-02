@@ -26,6 +26,13 @@
       <itunes:duration>321</itunes:duration>
     </item>
     <item>
+      <title>Huberman Lab - Access the Sublime &amp; Live Your Best Life | Robert Greene</title>
+      <guid isPermaLink="false">notion-40c0bbb0-ca77-8176-85cf-e27d9da26e8e</guid>
+      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-8176-85cf-e27d9da26e8e/40c0bbb0-ca77-8176-85cf-e27d9da26e8e.mp3" length="6699264" type="audio/mpeg"/>
+      <itunes:duration>403</itunes:duration>
+    </item>
+    <item>
       <title>Planet Money - Is this how the great international borrowing spree ends?</title>
       <guid isPermaLink="false">notion-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4</guid>
       <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-81b2-84c5-d8b198f38a14/4000bbb0-ca77-81b2-84c5-d8b198f38a14.mp3" length="4831104" type="audio/mpeg"/>
       <itunes:duration>334</itunes:duration>
-    </item>
-    <item>
-      <title>Freakonomics Radio - Are Private Equity Firms Plundering the U.S. Economy? (Update) | Freakonomics Radio</title>
-      <guid isPermaLink="false">notion-4000bbb0-ca77-8140-8232-d51ec5309760</guid>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4000bbb0-ca77-8140-8232-d51ec5309760/4000bbb0-ca77-8140-8232-d51ec5309760.mp3" length="7230720" type="audio/mpeg"/>
-      <itunes:duration>412</itunes:duration>
     </item>
   </channel>
 </rss>
