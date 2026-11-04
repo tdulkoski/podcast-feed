@@ -40,6 +40,13 @@
       <itunes:duration>357</itunes:duration>
     </item>
     <item>
+      <title>Every - The Inside Story of the 50 Who Built Modern AI With Kevin Roose</title>
+      <guid isPermaLink="false">notion-40e0bbb0-ca77-814c-8101-d21c63b621e2</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-814c-8101-d21c63b621e2/40e0bbb0-ca77-814c-8101-d21c63b621e2.mp3" length="5648256" type="audio/mpeg"/>
+      <itunes:duration>368</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - ⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev</title>
       <guid isPermaLink="false">notion-40d0bbb0-ca77-817d-a635-dbd1e1caabc6</guid>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-8151-926e-e133791bbba9/4020bbb0-ca77-8151-926e-e133791bbba9.mp3" length="6029184" type="audio/mpeg"/>
       <itunes:duration>346</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - The AI Bubble Signals Worth Worrying About</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-81bb-96e8-cff098fd1096</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81bb-96e8-cff098fd1096/4020bbb0-ca77-81bb-96e8-cff098fd1096.mp3" length="7680768" type="audio/mpeg"/>
-      <itunes:duration>415</itunes:duration>
     </item>
   </channel>
 </rss>
