@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
+      <guid isPermaLink="false">notion-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a/40e0bbb0-ca77-8180-89d6-ca347a1f9b8a.mp3" length="7484160" type="audio/mpeg"/>
+      <itunes:duration>413</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - ⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev</title>
       <guid isPermaLink="false">notion-40d0bbb0-ca77-817d-a635-dbd1e1caabc6</guid>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-817a-989f-f7a2ba55b7fd/4010bbb0-ca77-817a-989f-f7a2ba55b7fd.mp3" length="5996160" type="audio/mpeg"/>
       <itunes:duration>332</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal</title>
-      <guid isPermaLink="false">notion-4010bbb0-ca77-8152-8b5c-e49b2ce59e5e</guid>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4010bbb0-ca77-8152-8b5c-e49b2ce59e5e/4010bbb0-ca77-8152-8b5c-e49b2ce59e5e.mp3" length="7746048" type="audio/mpeg"/>
-      <itunes:duration>394</itunes:duration>
     </item>
   </channel>
 </rss>
