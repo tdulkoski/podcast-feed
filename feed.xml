@@ -12,6 +12,20 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Windows Weekly - The Thurrottification of Tech - Microsoft FY27 Q1 Results &amp; XBOX COO Mystery</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-8110-a601-d1e8602be66e</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8110-a601-d1e8602be66e/40f0bbb0-ca77-8110-a601-d1e8602be66e.mp3" length="7570560" type="audio/mpeg"/>
+      <itunes:duration>431</itunes:duration>
+    </item>
+    <item>
+      <title>Intelligent Machines Podcast - Unsustainably High - Tech Billionaires vs. Voters</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-8180-8508-c56e12523ffc</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8180-8508-c56e12523ffc/40f0bbb0-ca77-8180-8508-c56e12523ffc.mp3" length="6563712" type="audio/mpeg"/>
+      <itunes:duration>384</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
       <guid isPermaLink="false">notion-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81e6-ac75-cce14fb41c72/4020bbb0-ca77-81e6-ac75-cce14fb41c72.mp3" length="2227584" type="audio/mpeg"/>
       <itunes:duration>137</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - How AI Agents Really Work: Build One in Plain Python</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-818e-8acb-d0d00f402ab4</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-818e-8acb-d0d00f402ab4/4020bbb0-ca77-818e-8acb-d0d00f402ab4.mp3" length="5871744" type="audio/mpeg"/>
-      <itunes:duration>368</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - The Future of Python Security: Trends, Challenges, and Solutions | Real Python Podcast #316</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-81cf-8493-ec3cdc8e8155</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81cf-8493-ec3cdc8e8155/4020bbb0-ca77-81cf-8493-ec3cdc8e8155.mp3" length="7156992" type="audio/mpeg"/>
-      <itunes:duration>388</itunes:duration>
     </item>
   </channel>
 </rss>
