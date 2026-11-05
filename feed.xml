@@ -47,6 +47,13 @@
       <itunes:duration>368</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - How the Midterm Results Change AI</title>
+      <guid isPermaLink="false">notion-40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8/40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8.mp3" length="5804160" type="audio/mpeg"/>
+      <itunes:duration>344</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - ⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev</title>
       <guid isPermaLink="false">notion-40d0bbb0-ca77-817d-a635-dbd1e1caabc6</guid>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81cf-8493-ec3cdc8e8155/4020bbb0-ca77-81cf-8493-ec3cdc8e8155.mp3" length="7156992" type="audio/mpeg"/>
       <itunes:duration>388</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - How surveillance crept up on us</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-8151-926e-e133791bbba9</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-8151-926e-e133791bbba9/4020bbb0-ca77-8151-926e-e133791bbba9.mp3" length="6029184" type="audio/mpeg"/>
-      <itunes:duration>346</itunes:duration>
     </item>
   </channel>
 </rss>
