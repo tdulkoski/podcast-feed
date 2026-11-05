@@ -26,6 +26,20 @@
       <itunes:duration>384</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - Multicellular Systems - Fabian Theis, Helmholtz Munich</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-8120-a6e0-dceee7182434</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8120-a6e0-dceee7182434/40f0bbb0-ca77-8120-a6e0-dceee7182434.mp3" length="1567104" type="audio/mpeg"/>
+      <itunes:duration>97</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - How War Shaped Human Evolution - David Geary</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-816a-809c-f82561ad3218</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-816a-809c-f82561ad3218/40f0bbb0-ca77-816a-809c-f82561ad3218.mp3" length="6628608" type="audio/mpeg"/>
+      <itunes:duration>388</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
       <guid isPermaLink="false">notion-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81a4-87f5-dfa021dece27/4020bbb0-ca77-81a4-87f5-dfa021dece27.mp3" length="8035200" type="audio/mpeg"/>
       <itunes:duration>476</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Say Hello to Mentor AI – Your New Python &amp; AI Teacher</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-8141-bb68-e75987c069af</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-8141-bb68-e75987c069af/4020bbb0-ca77-8141-bb68-e75987c069af.mp3" length="1883904" type="audio/mpeg"/>
-      <itunes:duration>115</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Meet Mentor AI – Your New Python &amp; AI Learning Guide</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-81e6-ac75-cce14fb41c72</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81e6-ac75-cce14fb41c72/4020bbb0-ca77-81e6-ac75-cce14fb41c72.mp3" length="2227584" type="audio/mpeg"/>
-      <itunes:duration>137</itunes:duration>
     </item>
   </channel>
 </rss>
