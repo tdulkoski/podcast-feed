@@ -40,6 +40,13 @@
       <itunes:duration>388</itunes:duration>
     </item>
     <item>
+      <title>Real Python - Convert PDFs and Excel Into LLM-Ready Markdown With Python</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-81cd-be56-e036b80f61f2</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81cd-be56-e036b80f61f2/40f0bbb0-ca77-81cd-be56-e036b80f61f2.mp3" length="4229760" type="audio/mpeg"/>
+      <itunes:duration>239</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
       <guid isPermaLink="false">notion-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe/4030bbb0-ca77-81d5-a58e-d7e3afbcccfe.mp3" length="6725760" type="audio/mpeg"/>
       <itunes:duration>393</itunes:duration>
-    </item>
-    <item>
-      <title>Freakonomics Radio - 692. What Will A.I. Do to (and for) Human Creativity? | Freakonomics Radio</title>
-      <guid isPermaLink="false">notion-4020bbb0-ca77-81a4-87f5-dfa021dece27</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4020bbb0-ca77-81a4-87f5-dfa021dece27/4020bbb0-ca77-81a4-87f5-dfa021dece27.mp3" length="8035200" type="audio/mpeg"/>
-      <itunes:duration>476</itunes:duration>
     </item>
   </channel>
 </rss>
