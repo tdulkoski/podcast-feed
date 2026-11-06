@@ -12,6 +12,20 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Latent Space - Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich</title>
+      <guid isPermaLink="false">notion-4100bbb0-ca77-81c1-a53b-fe661ed65e17</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c1-a53b-fe661ed65e17/4100bbb0-ca77-81c1-a53b-fe661ed65e17.mp3" length="6229248" type="audio/mpeg"/>
+      <itunes:duration>369</itunes:duration>
+    </item>
+    <item>
+      <title>Freakonomics Radio - 694. Does Democracy Really Need Elections? | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-4100bbb0-ca77-81c4-a6b5-d07212a33aad</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c4-a6b5-d07212a33aad/4100bbb0-ca77-81c4-a6b5-d07212a33aad.mp3" length="6301824" type="audio/mpeg"/>
+      <itunes:duration>370</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - The Thurrottification of Tech - Microsoft FY27 Q1 Results &amp; XBOX COO Mystery</title>
       <guid isPermaLink="false">notion-40f0bbb0-ca77-8110-a601-d1e8602be66e</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-8154-a81b-f80af0ecc0cd/4050bbb0-ca77-8154-a81b-f80af0ecc0cd.mp3" length="6010368" type="audio/mpeg"/>
       <itunes:duration>357</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Crypto Scams, Dopamine Websites, Tasteful Slop &amp; Vape Shop Energy - Rabbit Hole #6</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-810d-bb2f-cae83bede43c</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-810d-bb2f-cae83bede43c/4050bbb0-ca77-810d-bb2f-cae83bede43c.mp3" length="7489536" type="audio/mpeg"/>
-      <itunes:duration>450</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How I m Actually Using Claude Duet</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-819a-8637-eea2cf50c0f9</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-819a-8637-eea2cf50c0f9/4050bbb0-ca77-819a-8637-eea2cf50c0f9.mp3" length="7318272" type="audio/mpeg"/>
-      <itunes:duration>419</itunes:duration>
     </item>
   </channel>
 </rss>
