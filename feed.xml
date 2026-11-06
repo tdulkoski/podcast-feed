@@ -47,6 +47,20 @@
       <itunes:duration>239</itunes:duration>
     </item>
     <item>
+      <title>Dwarkesh Patel - Which AI is the best liar?</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6/40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6.mp3" length="6405504" type="audio/mpeg"/>
+      <itunes:duration>405</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - How a Data Center Slowdown Benefits Big Tech</title>
+      <guid isPermaLink="false">notion-40f0bbb0-ca77-81c8-a29c-d88f61b2937b</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81c8-a29c-d88f61b2937b/40f0bbb0-ca77-81c8-a29c-d88f61b2937b.mp3" length="6771840" type="audio/mpeg"/>
+      <itunes:duration>398</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
       <guid isPermaLink="false">notion-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a</guid>
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-819a-8637-eea2cf50c0f9/4050bbb0-ca77-819a-8637-eea2cf50c0f9.mp3" length="7318272" type="audio/mpeg"/>
       <itunes:duration>419</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - 4 Questions for AI This Week</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-8188-83db-ec5d445c584c</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-8188-83db-ec5d445c584c/4050bbb0-ca77-8188-83db-ec5d445c584c.mp3" length="6125184" type="audio/mpeg"/>
-      <itunes:duration>364</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Positive Psychology Founder: How To Stop Your Negative Thoughts - Martin Seligman</title>
-      <guid isPermaLink="false">notion-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe</guid>
-      <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4030bbb0-ca77-81d5-a58e-d7e3afbcccfe/4030bbb0-ca77-81d5-a58e-d7e3afbcccfe.mp3" length="6725760" type="audio/mpeg"/>
-      <itunes:duration>393</itunes:duration>
     </item>
   </channel>
 </rss>
