@@ -26,6 +26,27 @@
       <itunes:duration>370</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham</title>
+      <guid isPermaLink="false">notion-4100bbb0-ca77-812f-83a7-eeaa6ddeef5e</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-812f-83a7-eeaa6ddeef5e/4100bbb0-ca77-812f-83a7-eeaa6ddeef5e.mp3" length="8645376" type="audio/mpeg"/>
+      <itunes:duration>522</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Free-Threaded Python: Why Python Devs Should Know About the ABI | Real Python Podcast #318</title>
+      <guid isPermaLink="false">notion-4100bbb0-ca77-81c1-a184-d7951abbb6c9</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c1-a184-d7951abbb6c9/4100bbb0-ca77-81c1-a184-d7951abbb6c9.mp3" length="6763392" type="audio/mpeg"/>
+      <itunes:duration>402</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - Companies Are Spending 5x More on AI Now</title>
+      <guid isPermaLink="false">notion-4100bbb0-ca77-816d-bf5e-c5c56a472aee</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-816d-bf5e-c5c56a472aee/4100bbb0-ca77-816d-bf5e-c5c56a472aee.mp3" length="6896256" type="audio/mpeg"/>
+      <itunes:duration>376</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - The Thurrottification of Tech - Microsoft FY27 Q1 Results &amp; XBOX COO Mystery</title>
       <guid isPermaLink="false">notion-40f0bbb0-ca77-8110-a601-d1e8602be66e</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
@@ -339,27 +360,6 @@
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-81b8-bc56-e8a40e650139/4050bbb0-ca77-81b8-bc56-e8a40e650139.mp3" length="6283392" type="audio/mpeg"/>
       <itunes:duration>350</itunes:duration>
-    </item>
-    <item>
-      <title>EconTalk - The Great Fertility Collapse (with Jesus Fernandez-Villaverde) 10/12/26</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-811d-b7c4-e1a251db3faa</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-811d-b7c4-e1a251db3faa/4050bbb0-ca77-811d-b7c4-e1a251db3faa.mp3" length="7175808" type="audio/mpeg"/>
-      <itunes:duration>375</itunes:duration>
-    </item>
-    <item>
-      <title>Huberman Lab - Unlocking Persistent Motivation &amp; Extreme Resilience | Ross Edgley</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-8152-ad5a-d93891acf19b</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-8152-ad5a-d93891acf19b/4050bbb0-ca77-8152-ad5a-d93891acf19b.mp3" length="6086400" type="audio/mpeg"/>
-      <itunes:duration>356</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - An Eval for AI Scientists That Knows the Answer Key - Ian Quigley, Leash Bio</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-8154-a81b-f80af0ecc0cd</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-8154-a81b-f80af0ecc0cd/4050bbb0-ca77-8154-a81b-f80af0ecc0cd.mp3" length="6010368" type="audio/mpeg"/>
-      <itunes:duration>357</itunes:duration>
     </item>
   </channel>
 </rss>
