@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Latent Space - Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter</title>
+      <guid isPermaLink="false">notion-4110bbb0-ca77-81cc-8c91-e07f44d963e1</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4110bbb0-ca77-81cc-8c91-e07f44d963e1/4110bbb0-ca77-81cc-8c91-e07f44d963e1.mp3" length="8802432" type="audio/mpeg"/>
+      <itunes:duration>526</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich</title>
       <guid isPermaLink="false">notion-4100bbb0-ca77-81c1-a53b-fe661ed65e17</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4060bbb0-ca77-8138-9209-c3058c423556/4060bbb0-ca77-8138-9209-c3058c423556.mp3" length="9072384" type="audio/mpeg"/>
       <itunes:duration>499</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Everything Important in Anthropic s IPO Prospectus</title>
-      <guid isPermaLink="false">notion-4060bbb0-ca77-8108-a72b-c5dcebe44b1c</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4060bbb0-ca77-8108-a72b-c5dcebe44b1c/4060bbb0-ca77-8108-a72b-c5dcebe44b1c.mp3" length="7887360" type="audio/mpeg"/>
-      <itunes:duration>391</itunes:duration>
     </item>
   </channel>
 </rss>
