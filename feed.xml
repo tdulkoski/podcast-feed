@@ -19,6 +19,13 @@
       <itunes:duration>526</itunes:duration>
     </item>
     <item>
+      <title>Chris Williamson - Your Home Might Be Destroying Your Health (&amp; how to fix it) - Michael Feldstein</title>
+      <guid isPermaLink="false">notion-4110bbb0-ca77-8149-ad54-cfcd30438a29</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4110bbb0-ca77-8149-ad54-cfcd30438a29/4110bbb0-ca77-8149-ad54-cfcd30438a29.mp3" length="6463488" type="audio/mpeg"/>
+      <itunes:duration>408</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich</title>
       <guid isPermaLink="false">notion-4100bbb0-ca77-81c1-a53b-fe661ed65e17</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-810a-a4bc-d1c1a9198468/4080bbb0-ca77-810a-a4bc-d1c1a9198468.mp3" length="4956288" type="audio/mpeg"/>
       <itunes:duration>303</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - How Anthropic ships the #1 LLM in the World — with Katelyn Lesse and Angela Jiang</title>
-      <guid isPermaLink="false">notion-4060bbb0-ca77-8138-9209-c3058c423556</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4060bbb0-ca77-8138-9209-c3058c423556/4060bbb0-ca77-8138-9209-c3058c423556.mp3" length="9072384" type="audio/mpeg"/>
-      <itunes:duration>499</itunes:duration>
     </item>
   </channel>
 </rss>
