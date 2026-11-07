@@ -47,6 +47,13 @@
       <itunes:duration>376</itunes:duration>
     </item>
     <item>
+      <title>Planet Money - Inside the insurance industry’s destruction lab</title>
+      <guid isPermaLink="false">notion-4100bbb0-ca77-8129-a91a-e0323e580c99</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-8129-a91a-e0323e580c99/4100bbb0-ca77-8129-a91a-e0323e580c99.mp3" length="5602560" type="audio/mpeg"/>
+      <itunes:duration>327</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - The Thurrottification of Tech - Microsoft FY27 Q1 Results &amp; XBOX COO Mystery</title>
       <guid isPermaLink="false">notion-40f0bbb0-ca77-8110-a601-d1e8602be66e</guid>
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4060bbb0-ca77-8108-a72b-c5dcebe44b1c/4060bbb0-ca77-8108-a72b-c5dcebe44b1c.mp3" length="7887360" type="audio/mpeg"/>
       <itunes:duration>391</itunes:duration>
-    </item>
-    <item>
-      <title>Peter Attia, MD - 413 ‒ The neuroscience of emotion: challenging conventional theories of emotion and much more</title>
-      <guid isPermaLink="false">notion-4050bbb0-ca77-81b8-bc56-e8a40e650139</guid>
-      <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4050bbb0-ca77-81b8-bc56-e8a40e650139/4050bbb0-ca77-81b8-bc56-e8a40e650139.mp3" length="6283392" type="audio/mpeg"/>
-      <itunes:duration>350</itunes:duration>
     </item>
   </channel>
 </rss>
