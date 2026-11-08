@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Latent Space - GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft</title>
+      <guid isPermaLink="false">notion-4120bbb0-ca77-816a-88f6-c8a341067849</guid>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4120bbb0-ca77-816a-88f6-c8a341067849/4120bbb0-ca77-816a-88f6-c8a341067849.mp3" length="6044928" type="audio/mpeg"/>
+      <itunes:duration>365</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter</title>
       <guid isPermaLink="false">notion-4110bbb0-ca77-81cc-8c91-e07f44d963e1</guid>
       <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81c5-b35f-f5318d557985/4070bbb0-ca77-81c5-b35f-f5318d557985.mp3" length="6607872" type="audio/mpeg"/>
       <itunes:duration>364</itunes:duration>
-    </item>
-    <item>
-      <title>Windows Weekly - A Sea of Blues and Greens - Another Round of Buyout Offers Sent to Microsoft's Workforce</title>
-      <guid isPermaLink="false">notion-4080bbb0-ca77-810a-a4bc-d1c1a9198468</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-810a-a4bc-d1c1a9198468/4080bbb0-ca77-810a-a4bc-d1c1a9198468.mp3" length="4956288" type="audio/mpeg"/>
-      <itunes:duration>303</itunes:duration>
     </item>
   </channel>
 </rss>
