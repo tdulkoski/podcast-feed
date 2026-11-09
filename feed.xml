@@ -19,6 +19,13 @@
       <itunes:duration>365</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
+      <guid isPermaLink="false">notion-4130bbb0-ca77-81b8-9f52-c421806ee6c5</guid>
+      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81b8-9f52-c421806ee6c5/4130bbb0-ca77-81b8-9f52-c421806ee6c5.mp3" length="7118592" type="audio/mpeg"/>
+      <itunes:duration>402</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter</title>
       <guid isPermaLink="false">notion-4110bbb0-ca77-81cc-8c91-e07f44d963e1</guid>
       <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81a4-ba85-ed3fae4bf446/4070bbb0-ca77-81a4-ba85-ed3fae4bf446.mp3" length="5547264" type="audio/mpeg"/>
       <itunes:duration>347</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Why Agents Love Supabase — with Paul Copplestone and Ant Wilson</title>
-      <guid isPermaLink="false">notion-4070bbb0-ca77-81c5-b35f-f5318d557985</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81c5-b35f-f5318d557985/4070bbb0-ca77-81c5-b35f-f5318d557985.mp3" length="6607872" type="audio/mpeg"/>
-      <itunes:duration>364</itunes:duration>
     </item>
   </channel>
 </rss>
