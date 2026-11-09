@@ -19,6 +19,13 @@
       <itunes:duration>407</itunes:duration>
     </item>
     <item>
+      <title>Chris Williamson - How To Turn Your Pain Into Greatness - Bugzy Malone (4K)</title>
+      <guid isPermaLink="false">notion-4130bbb0-ca77-81e6-b166-c43156d688d8</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81e6-b166-c43156d688d8/4130bbb0-ca77-81e6-b166-c43156d688d8.mp3" length="5842560" type="audio/mpeg"/>
+      <itunes:duration>372</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft</title>
       <guid isPermaLink="false">notion-4120bbb0-ca77-816a-88f6-c8a341067849</guid>
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-819a-a430-c40b6fd38ecb/4070bbb0-ca77-819a-a430-c40b6fd38ecb.mp3" length="6544512" type="audio/mpeg"/>
       <itunes:duration>381</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - AI Creates Worlds</title>
-      <guid isPermaLink="false">notion-4070bbb0-ca77-8192-8ecf-d679755f7af5</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-8192-8ecf-d679755f7af5/4070bbb0-ca77-8192-8ecf-d679755f7af5.mp3" length="6767616" type="audio/mpeg"/>
-      <itunes:duration>371</itunes:duration>
     </item>
   </channel>
 </rss>
