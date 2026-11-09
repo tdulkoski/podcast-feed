@@ -26,6 +26,27 @@
       <itunes:duration>372</itunes:duration>
     </item>
     <item>
+      <title>Every - We Tested Fable 5.2 Early. It’s a BEAST.</title>
+      <guid isPermaLink="false">notion-4130bbb0-ca77-81fe-af30-f77e96cf8763</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81fe-af30-f77e96cf8763/4130bbb0-ca77-81fe-af30-f77e96cf8763.mp3" length="5441664" type="audio/mpeg"/>
+      <itunes:duration>359</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - Nvidia CEO Admits Cheating with Suspected Chinese Spy</title>
+      <guid isPermaLink="false">notion-4130bbb0-ca77-8123-a50c-cdd3d008cf4b</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-8123-a50c-cdd3d008cf4b/4130bbb0-ca77-8123-a50c-cdd3d008cf4b.mp3" length="6948864" type="audio/mpeg"/>
+      <itunes:duration>401</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - Agentic Video is Real and Here's What You Should Try</title>
+      <guid isPermaLink="false">notion-4130bbb0-ca77-81e4-9598-c03485b0a6cb</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81e4-9598-c03485b0a6cb/4130bbb0-ca77-81e4-9598-c03485b0a6cb.mp3" length="6829824" type="audio/mpeg"/>
+      <itunes:duration>407</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft</title>
       <guid isPermaLink="false">notion-4120bbb0-ca77-816a-88f6-c8a341067849</guid>
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
@@ -339,27 +360,6 @@
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-817a-9211-d8ed7fcb31e2/4080bbb0-ca77-817a-9211-d8ed7fcb31e2.mp3" length="6359424" type="audio/mpeg"/>
       <itunes:duration>371</itunes:duration>
-    </item>
-    <item>
-      <title>Security Now - A Strategic Plug Pull - Lessons From a Global Patch-and-Panic Fire Drill</title>
-      <guid isPermaLink="false">notion-4070bbb0-ca77-8198-a059-f43ca333f61f</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-8198-a059-f43ca333f61f/4070bbb0-ca77-8198-a059-f43ca333f61f.mp3" length="6720768" type="audio/mpeg"/>
-      <itunes:duration>342</itunes:duration>
-    </item>
-    <item>
-      <title>Animal Spirits - Why Baby Boomers Have All the Money | Animal Spirits 488</title>
-      <guid isPermaLink="false">notion-4070bbb0-ca77-81e4-ab08-e9ea9fc52afd</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-81e4-ab08-e9ea9fc52afd/4070bbb0-ca77-81e4-ab08-e9ea9fc52afd.mp3" length="7178112" type="audio/mpeg"/>
-      <itunes:duration>392</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - Politicians are afraid to fix taxes. So 100 citizens tried.</title>
-      <guid isPermaLink="false">notion-4070bbb0-ca77-819a-a430-c40b6fd38ecb</guid>
-      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4070bbb0-ca77-819a-a430-c40b6fd38ecb/4070bbb0-ca77-819a-a430-c40b6fd38ecb.mp3" length="6544512" type="audio/mpeg"/>
-      <itunes:duration>381</itunes:duration>
     </item>
   </channel>
 </rss>
