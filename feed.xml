@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>The Builders - Alex Karp: Silicon Valley Broke Its Promise to America</title>
+      <guid isPermaLink="false">notion-4140bbb0-ca77-8177-8c0b-f38b1133321f</guid>
+      <pubDate>Tue, 10 Nov 2026 21:39:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8177-8c0b-f38b1133321f/4140bbb0-ca77-8177-8c0b-f38b1133321f.mp3" length="4622592" type="audio/mpeg"/>
+      <itunes:duration>287</itunes:duration>
+    </item>
+    <item>
       <title>Stacey Kim on Envy: Turning a Negative Emotion Into Motivation</title>
       <guid isPermaLink="false">notion-4140bbb0-ca77-8121-8afd-f0c3e51d5db2</guid>
       <pubDate>Tue, 10 Nov 2026 14:23:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-814b-98ed-d91e6cfcd279/4080bbb0-ca77-814b-98ed-d91e6cfcd279.mp3" length="5680512" type="audio/mpeg"/>
       <itunes:duration>376</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - 35 Emotions Explained By Evolutionary Psychology - Rob Kurzban</title>
-      <guid isPermaLink="false">notion-4080bbb0-ca77-8167-844f-dc16f5d7da17</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-8167-844f-dc16f5d7da17/4080bbb0-ca77-8167-844f-dc16f5d7da17.mp3" length="6457728" type="audio/mpeg"/>
-      <itunes:duration>396</itunes:duration>
     </item>
   </channel>
 </rss>
