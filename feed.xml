@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Stacey Kim on Envy: Turning a Negative Emotion Into Motivation</title>
+      <guid isPermaLink="false">notion-4140bbb0-ca77-8121-8afd-f0c3e51d5db2</guid>
+      <pubDate>Tue, 10 Nov 2026 14:23:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8121-8afd-f0c3e51d5db2/4140bbb0-ca77-8121-8afd-f0c3e51d5db2.mp3" length="4522368" type="audio/mpeg"/>
+      <itunes:duration>284</itunes:duration>
+    </item>
+    <item>
       <title>Huberman Lab - Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke</title>
       <guid isPermaLink="false">notion-4130bbb0-ca77-81d2-ac88-fab396834b90</guid>
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-8167-844f-dc16f5d7da17/4080bbb0-ca77-8167-844f-dc16f5d7da17.mp3" length="6457728" type="audio/mpeg"/>
       <itunes:duration>396</itunes:duration>
-    </item>
-    <item>
-      <title>Dwarkesh Patel - How an unelected man ruled New York for 30 years</title>
-      <guid isPermaLink="false">notion-4080bbb0-ca77-810c-a108-fc72a9d20d72</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-810c-a108-fc72a9d20d72/4080bbb0-ca77-810c-a108-fc72a9d20d72.mp3" length="6303360" type="audio/mpeg"/>
-      <itunes:duration>408</itunes:duration>
     </item>
   </channel>
 </rss>
