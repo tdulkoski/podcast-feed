@@ -47,6 +47,13 @@
       <itunes:duration>407</itunes:duration>
     </item>
     <item>
+      <title>Latent Space - What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team</title>
+      <guid isPermaLink="false">notion-4130bbb0-ca77-81ba-a2db-d8414da00dfb</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81ba-a2db-d8414da00dfb/4130bbb0-ca77-81ba-a2db-d8414da00dfb.mp3" length="8584320" type="audio/mpeg"/>
+      <itunes:duration>516</itunes:duration>
+    </item>
+    <item>
       <title>Latent Space - GitHub’s Growth: 225M Developers, 34.3B Commits — Jay Parikh, EVP of CoreAI, Microsoft</title>
       <guid isPermaLink="false">notion-4120bbb0-ca77-816a-88f6-c8a341067849</guid>
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-810c-a108-fc72a9d20d72/4080bbb0-ca77-810c-a108-fc72a9d20d72.mp3" length="6303360" type="audio/mpeg"/>
       <itunes:duration>408</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - New Leading AI Models as Benchmarks Shift</title>
-      <guid isPermaLink="false">notion-4080bbb0-ca77-817a-9211-d8ed7fcb31e2</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-817a-9211-d8ed7fcb31e2/4080bbb0-ca77-817a-9211-d8ed7fcb31e2.mp3" length="6359424" type="audio/mpeg"/>
-      <itunes:duration>371</itunes:duration>
     </item>
   </channel>
 </rss>
