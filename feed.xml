@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>No Small Endeavor - Spiritual but not Religious (The Ache, Part 1)</title>
+      <guid isPermaLink="false">notion-4140bbb0-ca77-810d-80fd-fc0beaffd368</guid>
+      <pubDate>Tue, 10 Nov 2026 23:22:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-810d-80fd-fc0beaffd368/4140bbb0-ca77-810d-80fd-fc0beaffd368.mp3" length="4270464" type="audio/mpeg"/>
+      <itunes:duration>290</itunes:duration>
+    </item>
+    <item>
       <title>The Builders - Alex Karp: Silicon Valley Broke Its Promise to America</title>
       <guid isPermaLink="false">notion-4140bbb0-ca77-8177-8c0b-f38b1133321f</guid>
       <pubDate>Tue, 10 Nov 2026 21:39:00 +0000</pubDate>
@@ -24,6 +31,20 @@
       <pubDate>Tue, 10 Nov 2026 14:23:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8121-8afd-f0c3e51d5db2/4140bbb0-ca77-8121-8afd-f0c3e51d5db2.mp3" length="4522368" type="audio/mpeg"/>
       <itunes:duration>284</itunes:duration>
+    </item>
+    <item>
+      <title>Latent Space - Designing for Agents — Zeno Rocha, Resend</title>
+      <guid isPermaLink="false">notion-4140bbb0-ca77-815d-86a1-d2d0ba83ebc7</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-815d-86a1-d2d0ba83ebc7/4140bbb0-ca77-815d-86a1-d2d0ba83ebc7.mp3" length="9327744" type="audio/mpeg"/>
+      <itunes:duration>552</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - Fable 5.2 vs Opus 5.5 and When to Use Each</title>
+      <guid isPermaLink="false">notion-4140bbb0-ca77-8173-9704-ed0fa556a046</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8173-9704-ed0fa556a046/4140bbb0-ca77-8173-9704-ed0fa556a046.mp3" length="7085952" type="audio/mpeg"/>
+      <itunes:duration>415</itunes:duration>
     </item>
     <item>
       <title>Huberman Lab - Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke</title>
@@ -339,27 +360,6 @@
       <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4090bbb0-ca77-81d2-9e6b-d702cb1d79a1/4090bbb0-ca77-81d2-9e6b-d702cb1d79a1.mp3" length="8221056" type="audio/mpeg"/>
       <itunes:duration>468</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How the Most AI Pilled Company in the World Works</title>
-      <guid isPermaLink="false">notion-4090bbb0-ca77-8173-9a98-e74dd35a21c6</guid>
-      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4090bbb0-ca77-8173-9a98-e74dd35a21c6/4090bbb0-ca77-8173-9a98-e74dd35a21c6.mp3" length="7910784" type="audio/mpeg"/>
-      <itunes:duration>484</itunes:duration>
-    </item>
-    <item>
-      <title>Intelligent Machines Podcast - Ghosting Meta Muse - Will Cloud Spending Sink AI’s Biggest Players?</title>
-      <guid isPermaLink="false">notion-4080bbb0-ca77-81ce-9d27-feca4291cdce</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-81ce-9d27-feca4291cdce/4080bbb0-ca77-81ce-9d27-feca4291cdce.mp3" length="6304896" type="audio/mpeg"/>
-      <itunes:duration>368</itunes:duration>
-    </item>
-    <item>
-      <title>Every - Can You Use AI To Make Good Art? — With Fred Graver</title>
-      <guid isPermaLink="false">notion-4080bbb0-ca77-814b-98ed-d91e6cfcd279</guid>
-      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4080bbb0-ca77-814b-98ed-d91e6cfcd279/4080bbb0-ca77-814b-98ed-d91e6cfcd279.mp3" length="5680512" type="audio/mpeg"/>
-      <itunes:duration>376</itunes:duration>
     </item>
   </channel>
 </rss>
