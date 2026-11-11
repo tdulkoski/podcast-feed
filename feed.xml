@@ -12,6 +12,20 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Perform with Andy Galpin - The Science of Extreme Endurance (Ross Edgley)</title>
+      <guid isPermaLink="false">notion-4150bbb0-ca77-81dd-97c1-d2965c1a28f3</guid>
+      <pubDate>Wed, 11 Nov 2026 19:40:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81dd-97c1-d2965c1a28f3/4150bbb0-ca77-81dd-97c1-d2965c1a28f3.mp3" length="4113408" type="audio/mpeg"/>
+      <itunes:duration>250</itunes:duration>
+    </item>
+    <item>
+      <title>Cybersecurity Where You Are - Episode 213: How AI Raises the Bar for Penetration Testing</title>
+      <guid isPermaLink="false">notion-4150bbb0-ca77-81e8-b403-fc3fd3dbda4d</guid>
+      <pubDate>Wed, 11 Nov 2026 19:39:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81e8-b403-fc3fd3dbda4d/4150bbb0-ca77-81e8-b403-fc3fd3dbda4d.mp3" length="5369472" type="audio/mpeg"/>
+      <itunes:duration>330</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - The hole in OpenSSH - Password Bypass in Plain Sight</title>
       <guid isPermaLink="false">notion-4150bbb0-ca77-8132-bde0-cca87d4be93a</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
@@ -31,6 +45,13 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81f9-ba88-d0ef3cd68b37/4150bbb0-ca77-81f9-ba88-d0ef3cd68b37.mp3" length="6583680" type="audio/mpeg"/>
       <itunes:duration>408</itunes:duration>
+    </item>
+    <item>
+      <title>Every - A New Vision for Human Work After Automation</title>
+      <guid isPermaLink="false">notion-4150bbb0-ca77-8184-bf47-e8324768dc1f</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-8184-bf47-e8324768dc1f/4150bbb0-ca77-8184-bf47-e8324768dc1f.mp3" length="5170176" type="audio/mpeg"/>
+      <itunes:duration>328</itunes:duration>
     </item>
     <item>
       <title>No Small Endeavor - Spiritual but not Religious (The Ache, Part 1)</title>
@@ -339,27 +360,6 @@
       <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4/40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4.mp3" length="5831808" type="audio/mpeg"/>
       <itunes:duration>345</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Building ChatGPT for Finance — Joseph Kim</title>
-      <guid isPermaLink="false">notion-40a0bbb0-ca77-8145-b6b9-ddbbcac56f57</guid>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40a0bbb0-ca77-8145-b6b9-ddbbcac56f57/40a0bbb0-ca77-8145-b6b9-ddbbcac56f57.mp3" length="7142784" type="audio/mpeg"/>
-      <itunes:duration>402</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Using Agents for Long-Horizon Financial Work — Aman Singh, Arca</title>
-      <guid isPermaLink="false">notion-40a0bbb0-ca77-81dd-b757-efa0c956793a</guid>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40a0bbb0-ca77-81dd-b757-efa0c956793a/40a0bbb0-ca77-81dd-b757-efa0c956793a.mp3" length="7348992" type="audio/mpeg"/>
-      <itunes:duration>407</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Expelled, Arrested &amp; Somehow Winning At Life - James Smith</title>
-      <guid isPermaLink="false">notion-40a0bbb0-ca77-8145-8cb3-c87d19e653b0</guid>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40a0bbb0-ca77-8145-8cb3-c87d19e653b0/40a0bbb0-ca77-8145-8cb3-c87d19e653b0.mp3" length="7143552" type="audio/mpeg"/>
-      <itunes:duration>440</itunes:duration>
     </item>
   </channel>
 </rss>
