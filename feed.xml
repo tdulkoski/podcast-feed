@@ -26,6 +26,13 @@
       <itunes:duration>399</itunes:duration>
     </item>
     <item>
+      <title>Chris Williamson - Why Atheists Keep Finding God (in everything) - Alex O’Connor (4K)</title>
+      <guid isPermaLink="false">notion-4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad/4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad.mp3" length="6619392" type="audio/mpeg"/>
+      <itunes:duration>414</itunes:duration>
+    </item>
+    <item>
       <title>Perform with Andy Galpin - The Science of Extreme Endurance (Ross Edgley)</title>
       <guid isPermaLink="false">notion-4150bbb0-ca77-81dd-97c1-d2965c1a28f3</guid>
       <pubDate>Wed, 11 Nov 2026 19:40:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-81ae-ab2d-efd1b98c1e35/40c0bbb0-ca77-81ae-ab2d-efd1b98c1e35.mp3" length="5899008" type="audio/mpeg"/>
       <itunes:duration>352</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How to Deslopify Your AI</title>
-      <guid isPermaLink="false">notion-40c0bbb0-ca77-81b8-90de-ca9346adfdb9</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-81b8-90de-ca9346adfdb9/40c0bbb0-ca77-81b8-90de-ca9346adfdb9.mp3" length="6706944" type="audio/mpeg"/>
-      <itunes:duration>416</itunes:duration>
     </item>
   </channel>
 </rss>
