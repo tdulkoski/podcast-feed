@@ -54,6 +54,13 @@
       <itunes:duration>328</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - Anthropic’s IPO is Set for Domination or Destruction</title>
+      <guid isPermaLink="false">notion-4150bbb0-ca77-81cf-900f-e24f4bfb819b</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81cf-900f-e24f4bfb819b/4150bbb0-ca77-81cf-900f-e24f4bfb819b.mp3" length="7013376" type="audio/mpeg"/>
+      <itunes:duration>414</itunes:duration>
+    </item>
+    <item>
       <title>No Small Endeavor - Spiritual but not Religious (The Ache, Part 1)</title>
       <guid isPermaLink="false">notion-4140bbb0-ca77-810d-80fd-fc0beaffd368</guid>
       <pubDate>Tue, 10 Nov 2026 23:22:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-8184-9619-d75d2fe00000/40c0bbb0-ca77-8184-9619-d75d2fe00000.mp3" length="7799040" type="audio/mpeg"/>
       <itunes:duration>465</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - Is this how the great international borrowing spree ends?</title>
-      <guid isPermaLink="false">notion-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4</guid>
-      <pubDate>Sat, 31 Oct 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4/40a0bbb0-ca77-81d4-8dfc-e40efd79e7e4.mp3" length="5831808" type="audio/mpeg"/>
-      <itunes:duration>345</itunes:duration>
     </item>
   </channel>
 </rss>
