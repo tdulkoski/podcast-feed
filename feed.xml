@@ -19,6 +19,13 @@
       <itunes:duration>479</itunes:duration>
     </item>
     <item>
+      <title>Intelligent Machines Podcast - Culling the Herd - The Secret Sauce (and Struggles) of Running AI at Home</title>
+      <guid isPermaLink="false">notion-4160bbb0-ca77-81a2-8ba1-e230e737c51f</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81a2-8ba1-e230e737c51f/4160bbb0-ca77-81a2-8ba1-e230e737c51f.mp3" length="6632448" type="audio/mpeg"/>
+      <itunes:duration>399</itunes:duration>
+    </item>
+    <item>
       <title>Perform with Andy Galpin - The Science of Extreme Endurance (Ross Edgley)</title>
       <guid isPermaLink="false">notion-4150bbb0-ca77-81dd-97c1-d2965c1a28f3</guid>
       <pubDate>Wed, 11 Nov 2026 19:40:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-81b8-90de-ca9346adfdb9/40c0bbb0-ca77-81b8-90de-ca9346adfdb9.mp3" length="6706944" type="audio/mpeg"/>
       <itunes:duration>416</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - AI Won’t Make Our Minds Useless According to 400 Years of History</title>
-      <guid isPermaLink="false">notion-40c0bbb0-ca77-819d-b699-c85e4ee5590d</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-819d-b699-c85e4ee5590d/40c0bbb0-ca77-819d-b699-c85e4ee5590d.mp3" length="6418560" type="audio/mpeg"/>
-      <itunes:duration>347</itunes:duration>
     </item>
   </channel>
 </rss>
