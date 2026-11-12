@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Windows Weekly - Creamy Nougat Center - The Patch Parade Continues &amp; FilmCraft vs. Clipchamp</title>
+      <guid isPermaLink="false">notion-4160bbb0-ca77-81ca-94d7-dc696daca73a</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81ca-94d7-dc696daca73a/4160bbb0-ca77-81ca-94d7-dc696daca73a.mp3" length="7696896" type="audio/mpeg"/>
+      <itunes:duration>479</itunes:duration>
+    </item>
+    <item>
       <title>Perform with Andy Galpin - The Science of Extreme Endurance (Ross Edgley)</title>
       <guid isPermaLink="false">notion-4150bbb0-ca77-81dd-97c1-d2965c1a28f3</guid>
       <pubDate>Wed, 11 Nov 2026 19:40:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-819d-b699-c85e4ee5590d/40c0bbb0-ca77-819d-b699-c85e4ee5590d.mp3" length="6418560" type="audio/mpeg"/>
       <itunes:duration>347</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Building Legal Agents When You Can't See the Data — Jacob Lauritzen, CTO of Legora</title>
-      <guid isPermaLink="false">notion-40c0bbb0-ca77-8184-9619-d75d2fe00000</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-8184-9619-d75d2fe00000/40c0bbb0-ca77-8184-9619-d75d2fe00000.mp3" length="7799040" type="audio/mpeg"/>
-      <itunes:duration>465</itunes:duration>
     </item>
   </channel>
 </rss>
