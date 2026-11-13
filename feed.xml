@@ -19,6 +19,20 @@
       <itunes:duration>395</itunes:duration>
     </item>
     <item>
+      <title>Every - Your Next Software Builder Already Works for You</title>
+      <guid isPermaLink="false">notion-4170bbb0-ca77-819b-91a9-c47c8b92878e</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-819b-91a9-c47c8b92878e/4170bbb0-ca77-819b-91a9-c47c8b92878e.mp3" length="5895552" type="audio/mpeg"/>
+      <itunes:duration>377</itunes:duration>
+    </item>
+    <item>
+      <title>Real Python - Mentoring Developers Beyond the Code With Tim Schilling | Real Python Podcast #319</title>
+      <guid isPermaLink="false">notion-4170bbb0-ca77-81a9-bcad-d2a848717603</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81a9-bcad-d2a848717603/4170bbb0-ca77-81a9-bcad-d2a848717603.mp3" length="6625536" type="audio/mpeg"/>
+      <itunes:duration>424</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - Creamy Nougat Center - The Patch Parade Continues &amp; FilmCraft vs. Clipchamp</title>
       <guid isPermaLink="false">notion-4160bbb0-ca77-81ca-94d7-dc696daca73a</guid>
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40d0bbb0-ca77-817d-a635-dbd1e1caabc6/40d0bbb0-ca77-817d-a635-dbd1e1caabc6.mp3" length="6336000" type="audio/mpeg"/>
       <itunes:duration>392</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - AI Lurches Towards RSI</title>
-      <guid isPermaLink="false">notion-40d0bbb0-ca77-8108-b37c-e4eb8f13ce01</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40d0bbb0-ca77-8108-b37c-e4eb8f13ce01/40d0bbb0-ca77-8108-b37c-e4eb8f13ce01.mp3" length="6249984" type="audio/mpeg"/>
-      <itunes:duration>372</itunes:duration>
-    </item>
-    <item>
-      <title>Peter Attia, MD - 414 ‒ Resistance training as we age: exercise selection, training intensity, and much more</title>
-      <guid isPermaLink="false">notion-40c0bbb0-ca77-8126-93c1-f2a0a302a134</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-8126-93c1-f2a0a302a134/40c0bbb0-ca77-8126-93c1-f2a0a302a134.mp3" length="6648576" type="audio/mpeg"/>
-      <itunes:duration>405</itunes:duration>
     </item>
   </channel>
 </rss>
