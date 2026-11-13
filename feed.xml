@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Freakonomics Radio - 695. Can the U.S. Close Its Fertility Gap? | Freakonomics Radio</title>
+      <guid isPermaLink="false">notion-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac/4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac.mp3" length="6274176" type="audio/mpeg"/>
+      <itunes:duration>395</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - Creamy Nougat Center - The Patch Parade Continues &amp; FilmCraft vs. Clipchamp</title>
       <guid isPermaLink="false">notion-4160bbb0-ca77-81ca-94d7-dc696daca73a</guid>
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-8126-93c1-f2a0a302a134/40c0bbb0-ca77-8126-93c1-f2a0a302a134.mp3" length="6648576" type="audio/mpeg"/>
       <itunes:duration>405</itunes:duration>
-    </item>
-    <item>
-      <title>EconTalk - Lives Wasted and Well-Lived: David Wolpe on The Death of Ivan Ilyich 10/19/26</title>
-      <guid isPermaLink="false">notion-40c0bbb0-ca77-81b5-b848-fa3270c71820</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40c0bbb0-ca77-81b5-b848-fa3270c71820/40c0bbb0-ca77-81b5-b848-fa3270c71820.mp3" length="4980864" type="audio/mpeg"/>
-      <itunes:duration>321</itunes:duration>
     </item>
   </channel>
 </rss>
