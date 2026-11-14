@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Planet Money - Are wildfires making the future uninsurable?</title>
+      <guid isPermaLink="false">notion-4180bbb0-ca77-81a8-94f3-c51ec5223d70</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4180bbb0-ca77-81a8-94f3-c51ec5223d70/4180bbb0-ca77-81a8-94f3-c51ec5223d70.mp3" length="5927424" type="audio/mpeg"/>
+      <itunes:duration>355</itunes:duration>
+    </item>
+    <item>
       <title>Freakonomics Radio - 695. Can the U.S. Close Its Fertility Gap? | Freakonomics Radio</title>
       <guid isPermaLink="false">notion-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac</guid>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-814c-8101-d21c63b621e2/40e0bbb0-ca77-814c-8101-d21c63b621e2.mp3" length="5648256" type="audio/mpeg"/>
       <itunes:duration>368</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How the Midterm Results Change AI</title>
-      <guid isPermaLink="false">notion-40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8/40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8.mp3" length="5804160" type="audio/mpeg"/>
-      <itunes:duration>344</itunes:duration>
     </item>
   </channel>
 </rss>
