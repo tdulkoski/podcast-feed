@@ -33,6 +33,13 @@
       <itunes:duration>424</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - Washington Fired Jensen Huang</title>
+      <guid isPermaLink="false">notion-4170bbb0-ca77-81e1-8d9b-cbb415d15622</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81e1-8d9b-cbb415d15622/4170bbb0-ca77-81e1-8d9b-cbb415d15622.mp3" length="5801472" type="audio/mpeg"/>
+      <itunes:duration>338</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - Creamy Nougat Center - The Patch Parade Continues &amp; FilmCraft vs. Clipchamp</title>
       <guid isPermaLink="false">notion-4160bbb0-ca77-81ca-94d7-dc696daca73a</guid>
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8/40e0bbb0-ca77-81a0-8b11-dcdecc7a32d8.mp3" length="5804160" type="audio/mpeg"/>
       <itunes:duration>344</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - ⚡️ The 2026 Software Factory Infra Stack — Zach Lloyd, Warp.dev</title>
-      <guid isPermaLink="false">notion-40d0bbb0-ca77-817d-a635-dbd1e1caabc6</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40d0bbb0-ca77-817d-a635-dbd1e1caabc6/40d0bbb0-ca77-817d-a635-dbd1e1caabc6.mp3" length="6336000" type="audio/mpeg"/>
-      <itunes:duration>392</itunes:duration>
     </item>
   </channel>
 </rss>
