@@ -19,6 +19,13 @@
       <itunes:duration>355</itunes:duration>
     </item>
     <item>
+      <title>Chris Williamson - “We Won 3 Grammys and Still Felt Like Failures” - Dan + Shay (Live Performance)</title>
+      <guid isPermaLink="false">notion-4180bbb0-ca77-81ba-9729-e50a59155a49</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4180bbb0-ca77-81ba-9729-e50a59155a49/4180bbb0-ca77-81ba-9729-e50a59155a49.mp3" length="4993920" type="audio/mpeg"/>
+      <itunes:duration>320</itunes:duration>
+    </item>
+    <item>
       <title>Freakonomics Radio - 695. Can the U.S. Close Its Fertility Gap? | Freakonomics Radio</title>
       <guid isPermaLink="false">notion-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac</guid>
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8148-9aae-dcd359a04f11/40e0bbb0-ca77-8148-9aae-dcd359a04f11.mp3" length="6604800" type="audio/mpeg"/>
       <itunes:duration>357</itunes:duration>
-    </item>
-    <item>
-      <title>Every - The Inside Story of the 50 Who Built Modern AI With Kevin Roose</title>
-      <guid isPermaLink="false">notion-40e0bbb0-ca77-814c-8101-d21c63b621e2</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-814c-8101-d21c63b621e2/40e0bbb0-ca77-814c-8101-d21c63b621e2.mp3" length="5648256" type="audio/mpeg"/>
-      <itunes:duration>368</itunes:duration>
     </item>
   </channel>
 </rss>
