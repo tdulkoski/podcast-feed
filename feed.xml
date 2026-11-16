@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Barbell Medicine Reviews Huberman's Protocols Book</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-81f0-ad20-e6d68327f863</guid>
+      <pubDate>Mon, 16 Nov 2026 19:51:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-81f0-ad20-e6d68327f863/41a0bbb0-ca77-81f0-ad20-e6d68327f863.mp3" length="4372224" type="audio/mpeg"/>
+      <itunes:duration>272</itunes:duration>
+    </item>
+    <item>
       <title>Peter Attia, MD - 416 ‒ The science of mitochondria: their role in health, aging, disease, and much more</title>
       <guid isPermaLink="false">notion-41a0bbb0-ca77-8114-a8f2-c2f79647ac20</guid>
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
@@ -31,6 +38,13 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8128-b162-dc00690025a7/41a0bbb0-ca77-8128-b162-dc00690025a7.mp3" length="6208512" type="audio/mpeg"/>
       <itunes:duration>357</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - The Strange Freedom To Be Disliked - James Blunt (4K)</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-812a-8cc3-f36607ea91fb</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-812a-8cc3-f36607ea91fb/41a0bbb0-ca77-812a-8cc3-f36607ea91fb.mp3" length="5592960" type="audio/mpeg"/>
+      <itunes:duration>358</itunes:duration>
     </item>
     <item>
       <title>Planet Money - Are wildfires making the future uninsurable?</title>
@@ -346,20 +360,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6/40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6.mp3" length="6405504" type="audio/mpeg"/>
       <itunes:duration>405</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - How a Data Center Slowdown Benefits Big Tech</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-81c8-a29c-d88f61b2937b</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81c8-a29c-d88f61b2937b/40f0bbb0-ca77-81c8-a29c-d88f61b2937b.mp3" length="6771840" type="audio/mpeg"/>
-      <itunes:duration>398</itunes:duration>
-    </item>
-    <item>
-      <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
-      <guid isPermaLink="false">notion-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a/40e0bbb0-ca77-8180-89d6-ca347a1f9b8a.mp3" length="7484160" type="audio/mpeg"/>
-      <itunes:duration>413</itunes:duration>
     </item>
   </channel>
 </rss>
