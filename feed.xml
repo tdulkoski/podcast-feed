@@ -19,6 +19,13 @@
       <itunes:duration>438</itunes:duration>
     </item>
     <item>
+      <title>EconTalk - Revisiting the China Shock (with Joseph Francis) 11/2/26</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-8174-8ef4-cfa024233c09</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8174-8ef4-cfa024233c09/41a0bbb0-ca77-8174-8ef4-cfa024233c09.mp3" length="6652800" type="audio/mpeg"/>
+      <itunes:duration>382</itunes:duration>
+    </item>
+    <item>
       <title>Planet Money - Are wildfires making the future uninsurable?</title>
       <guid isPermaLink="false">notion-4180bbb0-ca77-81a8-94f3-c51ec5223d70</guid>
       <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8145-829d-d2574a14d250/40e0bbb0-ca77-8145-829d-d2574a14d250.mp3" length="5486208" type="audio/mpeg"/>
       <itunes:duration>332</itunes:duration>
-    </item>
-    <item>
-      <title>Animal Spirits - Drowning Financially | Animal Spirits 489</title>
-      <guid isPermaLink="false">notion-40e0bbb0-ca77-817a-a338-edb71178d188</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-817a-a338-edb71178d188/40e0bbb0-ca77-817a-a338-edb71178d188.mp3" length="6596736" type="audio/mpeg"/>
-      <itunes:duration>393</itunes:duration>
     </item>
   </channel>
 </rss>
