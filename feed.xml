@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Peter Attia, MD - 416 ‒ The science of mitochondria: their role in health, aging, disease, and much more</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-8114-a8f2-c2f79647ac20</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8114-a8f2-c2f79647ac20/41a0bbb0-ca77-8114-a8f2-c2f79647ac20.mp3" length="7983360" type="audio/mpeg"/>
+      <itunes:duration>438</itunes:duration>
+    </item>
+    <item>
       <title>Planet Money - Are wildfires making the future uninsurable?</title>
       <guid isPermaLink="false">notion-4180bbb0-ca77-81a8-94f3-c51ec5223d70</guid>
       <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-817a-a338-edb71178d188/40e0bbb0-ca77-817a-a338-edb71178d188.mp3" length="6596736" type="audio/mpeg"/>
       <itunes:duration>393</itunes:duration>
-    </item>
-    <item>
-      <title>Security Now - Exposing Bad Consumer Crypto - AI vs. Encrypted Drives</title>
-      <guid isPermaLink="false">notion-40e0bbb0-ca77-8148-9aae-dcd359a04f11</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8148-9aae-dcd359a04f11/40e0bbb0-ca77-8148-9aae-dcd359a04f11.mp3" length="6604800" type="audio/mpeg"/>
-      <itunes:duration>357</itunes:duration>
     </item>
   </channel>
 </rss>
