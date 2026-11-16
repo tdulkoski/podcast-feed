@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>The Drive: Navdeep Chandel on Mitochondria, Metformin and Supplements</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-8135-bded-da974fc8f97b</guid>
+      <pubDate>Mon, 16 Nov 2026 20:15:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8135-bded-da974fc8f97b/41a0bbb0-ca77-8135-bded-da974fc8f97b.mp3" length="4573056" type="audio/mpeg"/>
+      <itunes:duration>249</itunes:duration>
+    </item>
+    <item>
       <title>Barbell Medicine Reviews Huberman's Protocols Book</title>
       <guid isPermaLink="false">notion-41a0bbb0-ca77-81f0-ad20-e6d68327f863</guid>
       <pubDate>Mon, 16 Nov 2026 19:51:00 +0000</pubDate>
@@ -45,6 +52,13 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-812a-8cc3-f36607ea91fb/41a0bbb0-ca77-812a-8cc3-f36607ea91fb.mp3" length="5592960" type="audio/mpeg"/>
       <itunes:duration>358</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - 7 Things AI-Native Companies Do Differently</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-811b-b9e5-f496458baa29</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-811b-b9e5-f496458baa29/41a0bbb0-ca77-811b-b9e5-f496458baa29.mp3" length="7630848" type="audio/mpeg"/>
+      <itunes:duration>459</itunes:duration>
     </item>
     <item>
       <title>Planet Money - Are wildfires making the future uninsurable?</title>
@@ -346,20 +360,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-816a-809c-f82561ad3218/40f0bbb0-ca77-816a-809c-f82561ad3218.mp3" length="6628608" type="audio/mpeg"/>
       <itunes:duration>388</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Convert PDFs and Excel Into LLM-Ready Markdown With Python</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-81cd-be56-e036b80f61f2</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81cd-be56-e036b80f61f2/40f0bbb0-ca77-81cd-be56-e036b80f61f2.mp3" length="4229760" type="audio/mpeg"/>
-      <itunes:duration>239</itunes:duration>
-    </item>
-    <item>
-      <title>Dwarkesh Patel - Which AI is the best liar?</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6/40f0bbb0-ca77-81d6-8a12-f2c900c9b3e6.mp3" length="6405504" type="audio/mpeg"/>
-      <itunes:duration>405</itunes:duration>
     </item>
   </channel>
 </rss>
