@@ -26,6 +26,13 @@
       <itunes:duration>382</itunes:duration>
     </item>
     <item>
+      <title>Huberman Lab - Mushrooms for the Mind &amp; Immune System | Paul Stamets</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-8128-b162-dc00690025a7</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8128-b162-dc00690025a7/41a0bbb0-ca77-8128-b162-dc00690025a7.mp3" length="6208512" type="audio/mpeg"/>
+      <itunes:duration>357</itunes:duration>
+    </item>
+    <item>
       <title>Planet Money - Are wildfires making the future uninsurable?</title>
       <guid isPermaLink="false">notion-4180bbb0-ca77-81a8-94f3-c51ec5223d70</guid>
       <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8180-89d6-ca347a1f9b8a/40e0bbb0-ca77-8180-89d6-ca347a1f9b8a.mp3" length="7484160" type="audio/mpeg"/>
       <itunes:duration>413</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - The history of light (classic)</title>
-      <guid isPermaLink="false">notion-40e0bbb0-ca77-8145-829d-d2574a14d250</guid>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40e0bbb0-ca77-8145-829d-d2574a14d250/40e0bbb0-ca77-8145-829d-d2574a14d250.mp3" length="5486208" type="audio/mpeg"/>
-      <itunes:duration>332</itunes:duration>
     </item>
   </channel>
 </rss>
