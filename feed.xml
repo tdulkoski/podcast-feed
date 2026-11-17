@@ -19,6 +19,13 @@
       <itunes:duration>417</itunes:duration>
     </item>
     <item>
+      <title>Generation Uncoupled: What's Separating the Sexes? (Daniel Cox)</title>
+      <guid isPermaLink="false">notion-41b0bbb0-ca77-8164-ac30-ca4e51f6e969</guid>
+      <pubDate>Tue, 17 Nov 2026 11:57:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41b0bbb0-ca77-8164-ac30-ca4e51f6e969/41b0bbb0-ca77-8164-ac30-ca4e51f6e969.mp3" length="4227456" type="audio/mpeg"/>
+      <itunes:duration>262</itunes:duration>
+    </item>
+    <item>
       <title>Tim Miller: The Hardest Part of Questioning What You Believe</title>
       <guid isPermaLink="false">notion-41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0</guid>
       <pubDate>Mon, 16 Nov 2026 23:54:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-8129-a91a-e0323e580c99/4100bbb0-ca77-8129-a91a-e0323e580c99.mp3" length="5602560" type="audio/mpeg"/>
       <itunes:duration>327</itunes:duration>
-    </item>
-    <item>
-      <title>Windows Weekly - The Thurrottification of Tech - Microsoft FY27 Q1 Results &amp; XBOX COO Mystery</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-8110-a601-d1e8602be66e</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8110-a601-d1e8602be66e/40f0bbb0-ca77-8110-a601-d1e8602be66e.mp3" length="7570560" type="audio/mpeg"/>
-      <itunes:duration>431</itunes:duration>
     </item>
   </channel>
 </rss>
