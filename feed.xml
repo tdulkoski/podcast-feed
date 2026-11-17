@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Tim Miller: The Hardest Part of Questioning What You Believe</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0</guid>
+      <pubDate>Mon, 16 Nov 2026 23:54:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0/41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0.mp3" length="4780032" type="audio/mpeg"/>
+      <itunes:duration>312</itunes:duration>
+    </item>
+    <item>
       <title>The Drive: Navdeep Chandel on Mitochondria, Metformin and Supplements</title>
       <guid isPermaLink="false">notion-41a0bbb0-ca77-8135-bded-da974fc8f97b</guid>
       <pubDate>Mon, 16 Nov 2026 20:15:00 +0000</pubDate>
@@ -59,6 +66,13 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-811b-b9e5-f496458baa29/41a0bbb0-ca77-811b-b9e5-f496458baa29.mp3" length="7630848" type="audio/mpeg"/>
       <itunes:duration>459</itunes:duration>
+    </item>
+    <item>
+      <title>Every - Giving Everyone AI Tools Isn’t Enough</title>
+      <guid isPermaLink="false">notion-41a0bbb0-ca77-81b5-8df5-f1f6e719007c</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-81b5-8df5-f1f6e719007c/41a0bbb0-ca77-81b5-8df5-f1f6e719007c.mp3" length="6521088" type="audio/mpeg"/>
+      <itunes:duration>396</itunes:duration>
     </item>
     <item>
       <title>Planet Money - Are wildfires making the future uninsurable?</title>
@@ -346,20 +360,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8180-8508-c56e12523ffc/40f0bbb0-ca77-8180-8508-c56e12523ffc.mp3" length="6563712" type="audio/mpeg"/>
       <itunes:duration>384</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Multicellular Systems - Fabian Theis, Helmholtz Munich</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-8120-a6e0-dceee7182434</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8120-a6e0-dceee7182434/40f0bbb0-ca77-8120-a6e0-dceee7182434.mp3" length="1567104" type="audio/mpeg"/>
-      <itunes:duration>97</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - How War Shaped Human Evolution - David Geary</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-816a-809c-f82561ad3218</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-816a-809c-f82561ad3218/40f0bbb0-ca77-816a-809c-f82561ad3218.mp3" length="6628608" type="audio/mpeg"/>
-      <itunes:duration>388</itunes:duration>
     </item>
   </channel>
 </rss>
