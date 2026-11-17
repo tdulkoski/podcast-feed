@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>The AI Daily Brief - 5 Questions Shaping AI This Week</title>
+      <guid isPermaLink="false">notion-41b0bbb0-ca77-81d3-aae7-d5299aa5ae2c</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41b0bbb0-ca77-81d3-aae7-d5299aa5ae2c/41b0bbb0-ca77-81d3-aae7-d5299aa5ae2c.mp3" length="7080576" type="audio/mpeg"/>
+      <itunes:duration>417</itunes:duration>
+    </item>
+    <item>
       <title>Tim Miller: The Hardest Part of Questioning What You Believe</title>
       <guid isPermaLink="false">notion-41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0</guid>
       <pubDate>Mon, 16 Nov 2026 23:54:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8110-a601-d1e8602be66e/40f0bbb0-ca77-8110-a601-d1e8602be66e.mp3" length="7570560" type="audio/mpeg"/>
       <itunes:duration>431</itunes:duration>
-    </item>
-    <item>
-      <title>Intelligent Machines Podcast - Unsustainably High - Tech Billionaires vs. Voters</title>
-      <guid isPermaLink="false">notion-40f0bbb0-ca77-8180-8508-c56e12523ffc</guid>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-40f0bbb0-ca77-8180-8508-c56e12523ffc/40f0bbb0-ca77-8180-8508-c56e12523ffc.mp3" length="6563712" type="audio/mpeg"/>
-      <itunes:duration>384</itunes:duration>
     </item>
   </channel>
 </rss>
