@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Barbell Medicine: The Collagen Protein Update</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-81a9-909b-c6c43a333575</guid>
+      <pubDate>Wed, 18 Nov 2026 20:34:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-81a9-909b-c6c43a333575/41c0bbb0-ca77-81a9-909b-c6c43a333575.mp3" length="6686976" type="audio/mpeg"/>
+      <itunes:duration>413</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - Formal Code Verification - When All Your Apps Go Dark</title>
       <guid isPermaLink="false">notion-41c0bbb0-ca77-8120-8609-ebaf8ce277fb</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
@@ -24,6 +31,13 @@
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-81c3-b99c-f0a6397abb50/41c0bbb0-ca77-81c3-b99c-f0a6397abb50.mp3" length="8020224" type="audio/mpeg"/>
       <itunes:duration>514</itunes:duration>
+    </item>
+    <item>
+      <title>Every - Notion’s Founder on the One Thing Your AI Is Missing</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-8112-b48e-f441e7e0dccf</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-8112-b48e-f441e7e0dccf/41c0bbb0-ca77-8112-b48e-f441e7e0dccf.mp3" length="6352896" type="audio/mpeg"/>
+      <itunes:duration>393</itunes:duration>
     </item>
     <item>
       <title>The AI Daily Brief - 5 Questions Shaping AI This Week</title>
@@ -346,20 +360,6 @@
       <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4110bbb0-ca77-81cc-8c91-e07f44d963e1/4110bbb0-ca77-81cc-8c91-e07f44d963e1.mp3" length="8802432" type="audio/mpeg"/>
       <itunes:duration>526</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Your Home Might Be Destroying Your Health (&amp; how to fix it) - Michael Feldstein</title>
-      <guid isPermaLink="false">notion-4110bbb0-ca77-8149-ad54-cfcd30438a29</guid>
-      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4110bbb0-ca77-8149-ad54-cfcd30438a29/4110bbb0-ca77-8149-ad54-cfcd30438a29.mp3" length="6463488" type="audio/mpeg"/>
-      <itunes:duration>408</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Mini Brains, Beating Heart Organoids, and the AI That Predicts Them — Fabian Theis, Helmholtz Munich</title>
-      <guid isPermaLink="false">notion-4100bbb0-ca77-81c1-a53b-fe661ed65e17</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c1-a53b-fe661ed65e17/4100bbb0-ca77-81c1-a53b-fe661ed65e17.mp3" length="6229248" type="audio/mpeg"/>
-      <itunes:duration>369</itunes:duration>
     </item>
   </channel>
 </rss>
