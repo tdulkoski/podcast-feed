@@ -26,6 +26,20 @@
       <itunes:duration>377</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - 5 Questions Shaping AI This Week</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-8120-9ed1-d46df6068452</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-8120-9ed1-d46df6068452/41c0bbb0-ca77-8120-9ed1-d46df6068452.mp3" length="6063360" type="audio/mpeg"/>
+      <itunes:duration>360</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - How Business AI Use is Changing</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-819d-ad65-c090485c7203</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-819d-ad65-c090485c7203/41c0bbb0-ca77-819d-ad65-c090485c7203.mp3" length="6965376" type="audio/mpeg"/>
+      <itunes:duration>383</itunes:duration>
+    </item>
+    <item>
       <title>Generation Uncoupled: What's Separating the Sexes? (Daniel Cox)</title>
       <guid isPermaLink="false">notion-41b0bbb0-ca77-8164-ac30-ca4e51f6e969</guid>
       <pubDate>Tue, 17 Nov 2026 11:57:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-812f-83a7-eeaa6ddeef5e/4100bbb0-ca77-812f-83a7-eeaa6ddeef5e.mp3" length="8645376" type="audio/mpeg"/>
       <itunes:duration>522</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Free-Threaded Python: Why Python Devs Should Know About the ABI | Real Python Podcast #318</title>
-      <guid isPermaLink="false">notion-4100bbb0-ca77-81c1-a184-d7951abbb6c9</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c1-a184-d7951abbb6c9/4100bbb0-ca77-81c1-a184-d7951abbb6c9.mp3" length="6763392" type="audio/mpeg"/>
-      <itunes:duration>402</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Companies Are Spending 5x More on AI Now</title>
-      <guid isPermaLink="false">notion-4100bbb0-ca77-816d-bf5e-c5c56a472aee</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-816d-bf5e-c5c56a472aee/4100bbb0-ca77-816d-bf5e-c5c56a472aee.mp3" length="6896256" type="audio/mpeg"/>
-      <itunes:duration>376</itunes:duration>
     </item>
   </channel>
 </rss>
