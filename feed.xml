@@ -19,6 +19,13 @@
       <itunes:duration>417</itunes:duration>
     </item>
     <item>
+      <title>Every - We Tested OpenAI's GPT-6.2 Astra For 2 Weeks</title>
+      <guid isPermaLink="false">notion-41b0bbb0-ca77-8186-ad8c-e19d973116eb</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41b0bbb0-ca77-8186-ad8c-e19d973116eb/41b0bbb0-ca77-8186-ad8c-e19d973116eb.mp3" length="6004992" type="audio/mpeg"/>
+      <itunes:duration>377</itunes:duration>
+    </item>
+    <item>
       <title>Generation Uncoupled: What's Separating the Sexes? (Daniel Cox)</title>
       <guid isPermaLink="false">notion-41b0bbb0-ca77-8164-ac30-ca4e51f6e969</guid>
       <pubDate>Tue, 17 Nov 2026 11:57:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-816d-bf5e-c5c56a472aee/4100bbb0-ca77-816d-bf5e-c5c56a472aee.mp3" length="6896256" type="audio/mpeg"/>
       <itunes:duration>376</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - Inside the insurance industry’s destruction lab</title>
-      <guid isPermaLink="false">notion-4100bbb0-ca77-8129-a91a-e0323e580c99</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-8129-a91a-e0323e580c99/4100bbb0-ca77-8129-a91a-e0323e580c99.mp3" length="5602560" type="audio/mpeg"/>
-      <itunes:duration>327</itunes:duration>
     </item>
   </channel>
 </rss>
