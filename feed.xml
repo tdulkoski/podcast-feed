@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Security Now - Formal Code Verification - When All Your Apps Go Dark</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-8120-8609-ebaf8ce277fb</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-8120-8609-ebaf8ce277fb/41c0bbb0-ca77-8120-8609-ebaf8ce277fb.mp3" length="7633152" type="audio/mpeg"/>
+      <itunes:duration>434</itunes:duration>
+    </item>
+    <item>
       <title>The AI Daily Brief - 5 Questions Shaping AI This Week</title>
       <guid isPermaLink="false">notion-41b0bbb0-ca77-81d3-aae7-d5299aa5ae2c</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c4-a6b5-d07212a33aad/4100bbb0-ca77-81c4-a6b5-d07212a33aad.mp3" length="6301824" type="audio/mpeg"/>
       <itunes:duration>370</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Cooking with Reducto’s CEO: Why PDFs Still Break AI — Adit Abraham</title>
-      <guid isPermaLink="false">notion-4100bbb0-ca77-812f-83a7-eeaa6ddeef5e</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-812f-83a7-eeaa6ddeef5e/4100bbb0-ca77-812f-83a7-eeaa6ddeef5e.mp3" length="8645376" type="audio/mpeg"/>
-      <itunes:duration>522</itunes:duration>
     </item>
   </channel>
 </rss>
