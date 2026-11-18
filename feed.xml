@@ -19,6 +19,13 @@
       <itunes:duration>434</itunes:duration>
     </item>
     <item>
+      <title>Animal Spirits - The Biggest Losers of the Year | Animal Spirits 490</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-81c3-b99c-f0a6397abb50</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-81c3-b99c-f0a6397abb50/41c0bbb0-ca77-81c3-b99c-f0a6397abb50.mp3" length="8020224" type="audio/mpeg"/>
+      <itunes:duration>514</itunes:duration>
+    </item>
+    <item>
       <title>The AI Daily Brief - 5 Questions Shaping AI This Week</title>
       <guid isPermaLink="false">notion-41b0bbb0-ca77-81d3-aae7-d5299aa5ae2c</guid>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c1-a53b-fe661ed65e17/4100bbb0-ca77-81c1-a53b-fe661ed65e17.mp3" length="6229248" type="audio/mpeg"/>
       <itunes:duration>369</itunes:duration>
-    </item>
-    <item>
-      <title>Freakonomics Radio - 694. Does Democracy Really Need Elections? | Freakonomics Radio</title>
-      <guid isPermaLink="false">notion-4100bbb0-ca77-81c4-a6b5-d07212a33aad</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4100bbb0-ca77-81c4-a6b5-d07212a33aad/4100bbb0-ca77-81c4-a6b5-d07212a33aad.mp3" length="6301824" type="audio/mpeg"/>
-      <itunes:duration>370</itunes:duration>
     </item>
   </channel>
 </rss>
