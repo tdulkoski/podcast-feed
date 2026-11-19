@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Cybersecurity Where You Are, Episode 214: Three K-12 Cybersecurity Questions Answered</title>
+      <guid isPermaLink="false">notion-41d0bbb0-ca77-8143-a1df-fb8e755ba7aa</guid>
+      <pubDate>Thu, 19 Nov 2026 01:13:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41d0bbb0-ca77-8143-a1df-fb8e755ba7aa/41d0bbb0-ca77-8143-a1df-fb8e755ba7aa.mp3" length="4896768" type="audio/mpeg"/>
+      <itunes:duration>282</itunes:duration>
+    </item>
+    <item>
       <title>Barbell Medicine: The Collagen Protein Update</title>
       <guid isPermaLink="false">notion-41c0bbb0-ca77-81a9-909b-c6c43a333575</guid>
       <pubDate>Wed, 18 Nov 2026 20:34:00 +0000</pubDate>
@@ -38,6 +45,13 @@
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-8112-b48e-f441e7e0dccf/41c0bbb0-ca77-8112-b48e-f441e7e0dccf.mp3" length="6352896" type="audio/mpeg"/>
       <itunes:duration>393</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - Why the AI Kids Hate Astra 6.2</title>
+      <guid isPermaLink="false">notion-41c0bbb0-ca77-8119-a1be-c50a657a6294</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41c0bbb0-ca77-8119-a1be-c50a657a6294/41c0bbb0-ca77-8119-a1be-c50a657a6294.mp3" length="6819840" type="audio/mpeg"/>
+      <itunes:duration>416</itunes:duration>
     </item>
     <item>
       <title>The AI Daily Brief - 5 Questions Shaping AI This Week</title>
@@ -346,20 +360,6 @@
       <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4120bbb0-ca77-816a-88f6-c8a341067849/4120bbb0-ca77-816a-88f6-c8a341067849.mp3" length="6044928" type="audio/mpeg"/>
       <itunes:duration>365</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - [One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco</title>
-      <guid isPermaLink="false">notion-4130bbb0-ca77-81b8-9f52-c421806ee6c5</guid>
-      <pubDate>Sun, 08 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81b8-9f52-c421806ee6c5/4130bbb0-ca77-81b8-9f52-c421806ee6c5.mp3" length="7118592" type="audio/mpeg"/>
-      <itunes:duration>402</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Deep Dive: Anthropic S-1 Myths and Mythos — Jamin Ball, Altimeter</title>
-      <guid isPermaLink="false">notion-4110bbb0-ca77-81cc-8c91-e07f44d963e1</guid>
-      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4110bbb0-ca77-81cc-8c91-e07f44d963e1/4110bbb0-ca77-81cc-8c91-e07f44d963e1.mp3" length="8802432" type="audio/mpeg"/>
-      <itunes:duration>526</itunes:duration>
     </item>
   </channel>
 </rss>
