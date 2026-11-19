@@ -33,6 +33,13 @@
       <itunes:duration>445</itunes:duration>
     </item>
     <item>
+      <title>Chris Williamson - What We Get Wrong About Angry Young Men - Ashley Walters (4K)</title>
+      <guid isPermaLink="false">notion-41d0bbb0-ca77-8127-8214-e8dd21d90d44</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41d0bbb0-ca77-8127-8214-e8dd21d90d44/41d0bbb0-ca77-8127-8214-e8dd21d90d44.mp3" length="6164352" type="audio/mpeg"/>
+      <itunes:duration>424</itunes:duration>
+    </item>
+    <item>
       <title>Cybersecurity Where You Are, Episode 214: Three K-12 Cybersecurity Questions Answered</title>
       <guid isPermaLink="false">notion-41d0bbb0-ca77-8143-a1df-fb8e755ba7aa</guid>
       <pubDate>Thu, 19 Nov 2026 01:13:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81fe-af30-f77e96cf8763/4130bbb0-ca77-81fe-af30-f77e96cf8763.mp3" length="5441664" type="audio/mpeg"/>
       <itunes:duration>359</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Nvidia CEO Admits Cheating with Suspected Chinese Spy</title>
-      <guid isPermaLink="false">notion-4130bbb0-ca77-8123-a50c-cdd3d008cf4b</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-8123-a50c-cdd3d008cf4b/4130bbb0-ca77-8123-a50c-cdd3d008cf4b.mp3" length="6948864" type="audio/mpeg"/>
-      <itunes:duration>401</itunes:duration>
     </item>
   </channel>
 </rss>
