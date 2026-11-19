@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Huberman Lab: Nicotine's Effects on the Brain and Body, and How to Quit Smoking or Vaping</title>
+      <guid isPermaLink="false">notion-41d0bbb0-ca77-810f-870a-fecc0e0718a3</guid>
+      <pubDate>Thu, 19 Nov 2026 13:15:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41d0bbb0-ca77-810f-870a-fecc0e0718a3/41d0bbb0-ca77-810f-870a-fecc0e0718a3.mp3" length="5859840" type="audio/mpeg"/>
+      <itunes:duration>353</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - You’re in My Dreambeans Every Day - Outlook Outage &amp; Ignite 2026 Announcements</title>
       <guid isPermaLink="false">notion-41d0bbb0-ca77-8177-9c51-fd60b4cceb14</guid>
       <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-8123-a50c-cdd3d008cf4b/4130bbb0-ca77-8123-a50c-cdd3d008cf4b.mp3" length="6948864" type="audio/mpeg"/>
       <itunes:duration>401</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Agentic Video is Real and Here's What You Should Try</title>
-      <guid isPermaLink="false">notion-4130bbb0-ca77-81e4-9598-c03485b0a6cb</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81e4-9598-c03485b0a6cb/4130bbb0-ca77-81e4-9598-c03485b0a6cb.mp3" length="6829824" type="audio/mpeg"/>
-      <itunes:duration>407</itunes:duration>
     </item>
   </channel>
 </rss>
