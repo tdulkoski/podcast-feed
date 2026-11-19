@@ -19,6 +19,13 @@
       <itunes:duration>340</itunes:duration>
     </item>
     <item>
+      <title>Intelligent Machines Podcast - I Like Money Bro - Global Chip Games</title>
+      <guid isPermaLink="false">notion-41d0bbb0-ca77-8134-95d0-ee1374d6ce77</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41d0bbb0-ca77-8134-95d0-ee1374d6ce77/41d0bbb0-ca77-8134-95d0-ee1374d6ce77.mp3" length="7352448" type="audio/mpeg"/>
+      <itunes:duration>445</itunes:duration>
+    </item>
+    <item>
       <title>Cybersecurity Where You Are, Episode 214: Three K-12 Cybersecurity Questions Answered</title>
       <guid isPermaLink="false">notion-41d0bbb0-ca77-8143-a1df-fb8e755ba7aa</guid>
       <pubDate>Thu, 19 Nov 2026 01:13:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81e4-9598-c03485b0a6cb/4130bbb0-ca77-81e4-9598-c03485b0a6cb.mp3" length="6829824" type="audio/mpeg"/>
       <itunes:duration>407</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team</title>
-      <guid isPermaLink="false">notion-4130bbb0-ca77-81ba-a2db-d8414da00dfb</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81ba-a2db-d8414da00dfb/4130bbb0-ca77-81ba-a2db-d8414da00dfb.mp3" length="8584320" type="audio/mpeg"/>
-      <itunes:duration>516</itunes:duration>
     </item>
   </channel>
 </rss>
