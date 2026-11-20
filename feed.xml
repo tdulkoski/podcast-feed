@@ -12,6 +12,34 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Barbell Medicine: Is It Really Just Calories In, Calories Out? Metabolism, Insulin, Hormones, and Why Counting Fails</title>
+      <guid isPermaLink="false">notion-41e0bbb0-ca77-811a-8445-ded310e3ab4c</guid>
+      <pubDate>Fri, 20 Nov 2026 13:33:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41e0bbb0-ca77-811a-8445-ded310e3ab4c/41e0bbb0-ca77-811a-8445-ded310e3ab4c.mp3" length="6504192" type="audio/mpeg"/>
+      <itunes:duration>405</itunes:duration>
+    </item>
+    <item>
+      <title>Barbell Medicine: Is Obesity a Willpower Problem? The Biology of Weight, Diets, and GLP-1s</title>
+      <guid isPermaLink="false">notion-41e0bbb0-ca77-81b4-8e25-c6b2e1b6a515</guid>
+      <pubDate>Fri, 20 Nov 2026 13:32:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41e0bbb0-ca77-81b4-8e25-c6b2e1b6a515/41e0bbb0-ca77-81b4-8e25-c6b2e1b6a515.mp3" length="5759616" type="audio/mpeg"/>
+      <itunes:duration>353</itunes:duration>
+    </item>
+    <item>
+      <title>Barbell Medicine: Lifting and Longevity, GLP-1s and Mood, Protein and Keto, and Training with Chronic Fatigue Syndrome</title>
+      <guid isPermaLink="false">notion-41e0bbb0-ca77-818e-bda6-d3e101e0d97f</guid>
+      <pubDate>Fri, 20 Nov 2026 13:32:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41e0bbb0-ca77-818e-bda6-d3e101e0d97f/41e0bbb0-ca77-818e-bda6-d3e101e0d97f.mp3" length="6048000" type="audio/mpeg"/>
+      <itunes:duration>365</itunes:duration>
+    </item>
+    <item>
+      <title>Barbell Medicine: The Man Who Couldn't Stop Gaining Weight (Medical Mystery)</title>
+      <guid isPermaLink="false">notion-41e0bbb0-ca77-8179-9fe4-fb3e4e7aa96a</guid>
+      <pubDate>Fri, 20 Nov 2026 13:31:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41e0bbb0-ca77-8179-9fe4-fb3e4e7aa96a/41e0bbb0-ca77-8179-9fe4-fb3e4e7aa96a.mp3" length="5121024" type="audio/mpeg"/>
+      <itunes:duration>301</itunes:duration>
+    </item>
+    <item>
       <title>Huberman Lab: Nicotine's Effects on the Brain and Body, and How to Quit Smoking or Vaping</title>
       <guid isPermaLink="false">notion-41d0bbb0-ca77-810f-870a-fecc0e0718a3</guid>
       <pubDate>Thu, 19 Nov 2026 13:15:00 +0000</pubDate>
@@ -332,34 +360,6 @@
       <pubDate>Tue, 10 Nov 2026 21:39:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8177-8c0b-f38b1133321f/4140bbb0-ca77-8177-8c0b-f38b1133321f.mp3" length="4622592" type="audio/mpeg"/>
       <itunes:duration>287</itunes:duration>
-    </item>
-    <item>
-      <title>Stacey Kim on Envy: Turning a Negative Emotion Into Motivation</title>
-      <guid isPermaLink="false">notion-4140bbb0-ca77-8121-8afd-f0c3e51d5db2</guid>
-      <pubDate>Tue, 10 Nov 2026 14:23:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8121-8afd-f0c3e51d5db2/4140bbb0-ca77-8121-8afd-f0c3e51d5db2.mp3" length="4522368" type="audio/mpeg"/>
-      <itunes:duration>284</itunes:duration>
-    </item>
-    <item>
-      <title>Latent Space - Designing for Agents — Zeno Rocha, Resend</title>
-      <guid isPermaLink="false">notion-4140bbb0-ca77-815d-86a1-d2d0ba83ebc7</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-815d-86a1-d2d0ba83ebc7/4140bbb0-ca77-815d-86a1-d2d0ba83ebc7.mp3" length="9327744" type="audio/mpeg"/>
-      <itunes:duration>552</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Fable 5.2 vs Opus 5.5 and When to Use Each</title>
-      <guid isPermaLink="false">notion-4140bbb0-ca77-8173-9704-ed0fa556a046</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8173-9704-ed0fa556a046/4140bbb0-ca77-8173-9704-ed0fa556a046.mp3" length="7085952" type="audio/mpeg"/>
-      <itunes:duration>415</itunes:duration>
-    </item>
-    <item>
-      <title>Huberman Lab - Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke</title>
-      <guid isPermaLink="false">notion-4130bbb0-ca77-81d2-ac88-fab396834b90</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81d2-ac88-fab396834b90/4130bbb0-ca77-81d2-ac88-fab396834b90.mp3" length="6832896" type="audio/mpeg"/>
-      <itunes:duration>407</itunes:duration>
     </item>
   </channel>
 </rss>
