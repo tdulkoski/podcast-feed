@@ -40,6 +40,13 @@
       <itunes:duration>301</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - Why Some Are Claiming Gemini Neon is Better than Fable</title>
+      <guid isPermaLink="false">notion-41e0bbb0-ca77-8192-810e-e73fa20fbd77</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41e0bbb0-ca77-8192-810e-e73fa20fbd77/41e0bbb0-ca77-8192-810e-e73fa20fbd77.mp3" length="6236160" type="audio/mpeg"/>
+      <itunes:duration>390</itunes:duration>
+    </item>
+    <item>
       <title>Huberman Lab: Nicotine's Effects on the Brain and Body, and How to Quit Smoking or Vaping</title>
       <guid isPermaLink="false">notion-41d0bbb0-ca77-810f-870a-fecc0e0718a3</guid>
       <pubDate>Thu, 19 Nov 2026 13:15:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Tue, 10 Nov 2026 23:22:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-810d-80fd-fc0beaffd368/4140bbb0-ca77-810d-80fd-fc0beaffd368.mp3" length="4270464" type="audio/mpeg"/>
       <itunes:duration>290</itunes:duration>
-    </item>
-    <item>
-      <title>The Builders - Alex Karp: Silicon Valley Broke Its Promise to America</title>
-      <guid isPermaLink="false">notion-4140bbb0-ca77-8177-8c0b-f38b1133321f</guid>
-      <pubDate>Tue, 10 Nov 2026 21:39:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4140bbb0-ca77-8177-8c0b-f38b1133321f/4140bbb0-ca77-8177-8c0b-f38b1133321f.mp3" length="4622592" type="audio/mpeg"/>
-      <itunes:duration>287</itunes:duration>
     </item>
   </channel>
 </rss>
