@@ -47,6 +47,13 @@
       <itunes:duration>232</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - The 10 Biggest Days in AI History</title>
+      <guid isPermaLink="false">notion-41d0bbb0-ca77-8120-a145-f3477d62665e</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41d0bbb0-ca77-8120-a145-f3477d62665e/41d0bbb0-ca77-8120-a145-f3477d62665e.mp3" length="7718400" type="audio/mpeg"/>
+      <itunes:duration>451</itunes:duration>
+    </item>
+    <item>
       <title>Cybersecurity Where You Are, Episode 214: Three K-12 Cybersecurity Questions Answered</title>
       <guid isPermaLink="false">notion-41d0bbb0-ca77-8143-a1df-fb8e755ba7aa</guid>
       <pubDate>Thu, 19 Nov 2026 01:13:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81d2-ac88-fab396834b90/4130bbb0-ca77-81d2-ac88-fab396834b90.mp3" length="6832896" type="audio/mpeg"/>
       <itunes:duration>407</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - How To Turn Your Pain Into Greatness - Bugzy Malone (4K)</title>
-      <guid isPermaLink="false">notion-4130bbb0-ca77-81e6-b166-c43156d688d8</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4130bbb0-ca77-81e6-b166-c43156d688d8/4130bbb0-ca77-81e6-b166-c43156d688d8.mp3" length="5842560" type="audio/mpeg"/>
-      <itunes:duration>372</itunes:duration>
     </item>
   </channel>
 </rss>
