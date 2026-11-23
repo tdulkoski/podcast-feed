@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Barbell Medicine: How Well Does Creatine Actually Work? (Claim-by-Claim Analysis and the New Law)</title>
+      <guid isPermaLink="false">notion-4210bbb0-ca77-81bd-884c-f73d4a3847f4</guid>
+      <pubDate>Mon, 23 Nov 2026 19:58:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-81bd-884c-f73d4a3847f4/4210bbb0-ca77-81bd-884c-f73d4a3847f4.mp3" length="4695552" type="audio/mpeg"/>
+      <itunes:duration>277</itunes:duration>
+    </item>
+    <item>
       <title>The Drive: Cold Therapy, Pros, Cons, and Longevity (AMA 47 Rebroadcast)</title>
       <guid isPermaLink="false">notion-4210bbb0-ca77-8162-a7b9-e2b66a377f2f</guid>
       <pubDate>Mon, 23 Nov 2026 13:45:00 +0000</pubDate>
@@ -31,6 +38,20 @@
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-817b-8e21-e5f34de2849e/4210bbb0-ca77-817b-8e21-e5f34de2849e.mp3" length="6195456" type="audio/mpeg"/>
       <itunes:duration>411</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - History Is Much Dumber Than You Think - Fin Taylor &amp; Horatio Gould (4K)</title>
+      <guid isPermaLink="false">notion-4210bbb0-ca77-81ef-9bda-ef5be9ce0d2e</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-81ef-9bda-ef5be9ce0d2e/4210bbb0-ca77-81ef-9bda-ef5be9ce0d2e.mp3" length="5705088" type="audio/mpeg"/>
+      <itunes:duration>353</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - When AI Labs Rival Nations</title>
+      <guid isPermaLink="false">notion-4210bbb0-ca77-812b-84f6-da8047d14aeb</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-812b-84f6-da8047d14aeb/4210bbb0-ca77-812b-84f6-da8047d14aeb.mp3" length="6240000" type="audio/mpeg"/>
+      <itunes:duration>378</itunes:duration>
     </item>
     <item>
       <title>7-Minute Security: How Not to Sell Your Security Company (Part 23)</title>
@@ -339,27 +360,6 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81be-ab29-ec79786bae3d/4160bbb0-ca77-81be-ab29-ec79786bae3d.mp3" length="4420608" type="audio/mpeg"/>
       <itunes:duration>274</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.</title>
-      <guid isPermaLink="false">notion-4160bbb0-ca77-8145-8638-dfd60b37266d</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-8145-8638-dfd60b37266d/4160bbb0-ca77-8145-8638-dfd60b37266d.mp3" length="5625984" type="audio/mpeg"/>
-      <itunes:duration>339</itunes:duration>
-    </item>
-    <item>
-      <title>Perform with Andy Galpin - The Science of Extreme Endurance (Ross Edgley)</title>
-      <guid isPermaLink="false">notion-4150bbb0-ca77-81dd-97c1-d2965c1a28f3</guid>
-      <pubDate>Wed, 11 Nov 2026 19:40:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81dd-97c1-d2965c1a28f3/4150bbb0-ca77-81dd-97c1-d2965c1a28f3.mp3" length="4113408" type="audio/mpeg"/>
-      <itunes:duration>250</itunes:duration>
-    </item>
-    <item>
-      <title>Cybersecurity Where You Are - Episode 213: How AI Raises the Bar for Penetration Testing</title>
-      <guid isPermaLink="false">notion-4150bbb0-ca77-81e8-b403-fc3fd3dbda4d</guid>
-      <pubDate>Wed, 11 Nov 2026 19:39:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81e8-b403-fc3fd3dbda4d/4150bbb0-ca77-81e8-b403-fc3fd3dbda4d.mp3" length="5369472" type="audio/mpeg"/>
-      <itunes:duration>330</itunes:duration>
     </item>
   </channel>
 </rss>
