@@ -26,6 +26,13 @@
       <itunes:duration>422</itunes:duration>
     </item>
     <item>
+      <title>Huberman Lab - Access the Power of Now to Experience Life More Fully | Eckhart Tolle</title>
+      <guid isPermaLink="false">notion-4210bbb0-ca77-817b-8e21-e5f34de2849e</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-817b-8e21-e5f34de2849e/4210bbb0-ca77-817b-8e21-e5f34de2849e.mp3" length="6195456" type="audio/mpeg"/>
+      <itunes:duration>411</itunes:duration>
+    </item>
+    <item>
       <title>7-Minute Security: How Not to Sell Your Security Company (Part 23)</title>
       <guid isPermaLink="false">notion-4200bbb0-ca77-8108-b845-ce4459e783e8</guid>
       <pubDate>Sun, 22 Nov 2026 12:56:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 11 Nov 2026 19:39:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-81e8-b403-fc3fd3dbda4d/4150bbb0-ca77-81e8-b403-fc3fd3dbda4d.mp3" length="5369472" type="audio/mpeg"/>
       <itunes:duration>330</itunes:duration>
-    </item>
-    <item>
-      <title>Security Now - The hole in OpenSSH - Password Bypass in Plain Sight</title>
-      <guid isPermaLink="false">notion-4150bbb0-ca77-8132-bde0-cca87d4be93a</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-8132-bde0-cca87d4be93a/4150bbb0-ca77-8132-bde0-cca87d4be93a.mp3" length="6889344" type="audio/mpeg"/>
-      <itunes:duration>369</itunes:duration>
     </item>
   </channel>
 </rss>
