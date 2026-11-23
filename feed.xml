@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>The Drive: Cold Therapy, Pros, Cons, and Longevity (AMA 47 Rebroadcast)</title>
+      <guid isPermaLink="false">notion-4210bbb0-ca77-8162-a7b9-e2b66a377f2f</guid>
+      <pubDate>Mon, 23 Nov 2026 13:45:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-8162-a7b9-e2b66a377f2f/4210bbb0-ca77-8162-a7b9-e2b66a377f2f.mp3" length="5382912" type="audio/mpeg"/>
+      <itunes:duration>311</itunes:duration>
+    </item>
+    <item>
       <title>EconTalk - Hubris, Humility, and the AI Revolution (with Walter Isaacson) 11/9/26</title>
       <guid isPermaLink="false">notion-4210bbb0-ca77-814e-b717-c93efca31b51</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-8132-bde0-cca87d4be93a/4150bbb0-ca77-8132-bde0-cca87d4be93a.mp3" length="6889344" type="audio/mpeg"/>
       <itunes:duration>369</itunes:duration>
-    </item>
-    <item>
-      <title>Animal Spirits - What the Hell Just Happened?! | Animal Spirits 490</title>
-      <guid isPermaLink="false">notion-4150bbb0-ca77-8129-a3e0-ffe1a36aa513</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4150bbb0-ca77-8129-a3e0-ffe1a36aa513/4150bbb0-ca77-8129-a3e0-ffe1a36aa513.mp3" length="6024192" type="audio/mpeg"/>
-      <itunes:duration>371</itunes:duration>
     </item>
   </channel>
 </rss>
