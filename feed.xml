@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Stuff You Should Know: Protein, Yes, But How Much?</title>
+      <guid isPermaLink="false">notion-4220bbb0-ca77-8113-9fe5-d8459ac7a980</guid>
+      <pubDate>Tue, 24 Nov 2026 11:34:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4220bbb0-ca77-8113-9fe5-d8459ac7a980/4220bbb0-ca77-8113-9fe5-d8459ac7a980.mp3" length="4801152" type="audio/mpeg"/>
+      <itunes:duration>304</itunes:duration>
+    </item>
+    <item>
       <title>Barbell Medicine: How Well Does Creatine Actually Work? (Claim-by-Claim Analysis and the New Law)</title>
       <guid isPermaLink="false">notion-4210bbb0-ca77-81bd-884c-f73d4a3847f4</guid>
       <pubDate>Mon, 23 Nov 2026 19:58:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81a2-8ba1-e230e737c51f/4160bbb0-ca77-81a2-8ba1-e230e737c51f.mp3" length="6632448" type="audio/mpeg"/>
       <itunes:duration>399</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - Why Atheists Keep Finding God (in everything) - Alex O’Connor (4K)</title>
-      <guid isPermaLink="false">notion-4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad/4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad.mp3" length="6619392" type="audio/mpeg"/>
-      <itunes:duration>414</itunes:duration>
     </item>
   </channel>
 </rss>
