@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Every - Readers Don't Trust AI Writing</title>
+      <guid isPermaLink="false">notion-4220bbb0-ca77-810c-925e-df89e0c2c62c</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4220bbb0-ca77-810c-925e-df89e0c2c62c/4220bbb0-ca77-810c-925e-df89e0c2c62c.mp3" length="7181184" type="audio/mpeg"/>
+      <itunes:duration>449</itunes:duration>
+    </item>
+    <item>
       <title>Stuff You Should Know: Protein, Yes, But How Much?</title>
       <guid isPermaLink="false">notion-4220bbb0-ca77-8113-9fe5-d8459ac7a980</guid>
       <pubDate>Tue, 24 Nov 2026 11:34:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81ca-94d7-dc696daca73a/4160bbb0-ca77-81ca-94d7-dc696daca73a.mp3" length="7696896" type="audio/mpeg"/>
       <itunes:duration>479</itunes:duration>
-    </item>
-    <item>
-      <title>Intelligent Machines Podcast - Culling the Herd - The Secret Sauce (and Struggles) of Running AI at Home</title>
-      <guid isPermaLink="false">notion-4160bbb0-ca77-81a2-8ba1-e230e737c51f</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81a2-8ba1-e230e737c51f/4160bbb0-ca77-81a2-8ba1-e230e737c51f.mp3" length="6632448" type="audio/mpeg"/>
-      <itunes:duration>399</itunes:duration>
     </item>
   </channel>
 </rss>
