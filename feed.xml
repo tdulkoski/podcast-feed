@@ -54,6 +54,13 @@
       <itunes:duration>378</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - Jensen is Back as CEO After White House Advocacy</title>
+      <guid isPermaLink="false">notion-4210bbb0-ca77-819c-b293-f2dc23a05689</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4210bbb0-ca77-819c-b293-f2dc23a05689/4210bbb0-ca77-819c-b293-f2dc23a05689.mp3" length="5042304" type="audio/mpeg"/>
+      <itunes:duration>311</itunes:duration>
+    </item>
+    <item>
       <title>7-Minute Security: How Not to Sell Your Security Company (Part 23)</title>
       <guid isPermaLink="false">notion-4200bbb0-ca77-8108-b845-ce4459e783e8</guid>
       <pubDate>Sun, 22 Nov 2026 12:56:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad/4160bbb0-ca77-818c-a0dd-dfdf45a8f9ad.mp3" length="6619392" type="audio/mpeg"/>
       <itunes:duration>414</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Python itertools: Use 400x Less Memory With Iterators</title>
-      <guid isPermaLink="false">notion-4160bbb0-ca77-81be-ab29-ec79786bae3d</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81be-ab29-ec79786bae3d/4160bbb0-ca77-81be-ab29-ec79786bae3d.mp3" length="4420608" type="audio/mpeg"/>
-      <itunes:duration>274</itunes:duration>
     </item>
   </channel>
 </rss>
