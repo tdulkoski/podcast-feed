@@ -33,6 +33,13 @@
       <itunes:duration>462</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - How to Talk About AI at Thanksgiving</title>
+      <guid isPermaLink="false">notion-4230bbb0-ca77-81f2-9e49-d3294c78b730</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4230bbb0-ca77-81f2-9e49-d3294c78b730/4230bbb0-ca77-81f2-9e49-d3294c78b730.mp3" length="7722240" type="audio/mpeg"/>
+      <itunes:duration>492</itunes:duration>
+    </item>
+    <item>
       <title>Every - Readers Don't Trust AI Writing</title>
       <guid isPermaLink="false">notion-4220bbb0-ca77-810c-925e-df89e0c2c62c</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4180bbb0-ca77-81ba-9729-e50a59155a49/4180bbb0-ca77-81ba-9729-e50a59155a49.mp3" length="4993920" type="audio/mpeg"/>
       <itunes:duration>320</itunes:duration>
-    </item>
-    <item>
-      <title>Freakonomics Radio - 695. Can the U.S. Close Its Fertility Gap? | Freakonomics Radio</title>
-      <guid isPermaLink="false">notion-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac/4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac.mp3" length="6274176" type="audio/mpeg"/>
-      <itunes:duration>395</itunes:duration>
     </item>
   </channel>
 </rss>
