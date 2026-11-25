@@ -12,11 +12,25 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Barbell Medicine Direct Line: What the Back Experts Get Wrong (Stu McGill, Spinal Engine Theory, Eccentric Overload)</title>
+      <guid isPermaLink="false">notion-4230bbb0-ca77-81d1-9eb4-dcdb6ec39dec</guid>
+      <pubDate>Wed, 25 Nov 2026 12:10:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4230bbb0-ca77-81d1-9eb4-dcdb6ec39dec/4230bbb0-ca77-81d1-9eb4-dcdb6ec39dec.mp3" length="4894080" type="audio/mpeg"/>
+      <itunes:duration>308</itunes:duration>
+    </item>
+    <item>
       <title>Security Now - ARTEX - Agentic AI-Driven Cyberattacks Are Happening at Scale</title>
       <guid isPermaLink="false">notion-4230bbb0-ca77-8120-858e-c4376d45259c</guid>
       <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4230bbb0-ca77-8120-858e-c4376d45259c/4230bbb0-ca77-8120-858e-c4376d45259c.mp3" length="7850496" type="audio/mpeg"/>
       <itunes:duration>446</itunes:duration>
+    </item>
+    <item>
+      <title>Animal Spirits - The Stock Market Is Too Big to Fail | Animal Spirits 492</title>
+      <guid isPermaLink="false">notion-4230bbb0-ca77-81cc-8e43-f1b6c2b04c06</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4230bbb0-ca77-81cc-8e43-f1b6c2b04c06/4230bbb0-ca77-81cc-8e43-f1b6c2b04c06.mp3" length="7327872" type="audio/mpeg"/>
+      <itunes:duration>462</itunes:duration>
     </item>
     <item>
       <title>Every - Readers Don't Trust AI Writing</title>
@@ -346,20 +360,6 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac/4170bbb0-ca77-81b4-89b1-d77bf2c2b3ac.mp3" length="6274176" type="audio/mpeg"/>
       <itunes:duration>395</itunes:duration>
-    </item>
-    <item>
-      <title>Every - Your Next Software Builder Already Works for You</title>
-      <guid isPermaLink="false">notion-4170bbb0-ca77-819b-91a9-c47c8b92878e</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-819b-91a9-c47c8b92878e/4170bbb0-ca77-819b-91a9-c47c8b92878e.mp3" length="5895552" type="audio/mpeg"/>
-      <itunes:duration>377</itunes:duration>
-    </item>
-    <item>
-      <title>Real Python - Mentoring Developers Beyond the Code With Tim Schilling | Real Python Podcast #319</title>
-      <guid isPermaLink="false">notion-4170bbb0-ca77-81a9-bcad-d2a848717603</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81a9-bcad-d2a848717603/4170bbb0-ca77-81a9-bcad-d2a848717603.mp3" length="6625536" type="audio/mpeg"/>
-      <itunes:duration>424</itunes:duration>
     </item>
   </channel>
 </rss>
