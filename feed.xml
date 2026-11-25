@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Security Now - ARTEX - Agentic AI-Driven Cyberattacks Are Happening at Scale</title>
+      <guid isPermaLink="false">notion-4230bbb0-ca77-8120-858e-c4376d45259c</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4230bbb0-ca77-8120-858e-c4376d45259c/4230bbb0-ca77-8120-858e-c4376d45259c.mp3" length="7850496" type="audio/mpeg"/>
+      <itunes:duration>446</itunes:duration>
+    </item>
+    <item>
       <title>Every - Readers Don't Trust AI Writing</title>
       <guid isPermaLink="false">notion-4220bbb0-ca77-810c-925e-df89e0c2c62c</guid>
       <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81a9-bcad-d2a848717603/4170bbb0-ca77-81a9-bcad-d2a848717603.mp3" length="6625536" type="audio/mpeg"/>
       <itunes:duration>424</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - Washington Fired Jensen Huang</title>
-      <guid isPermaLink="false">notion-4170bbb0-ca77-81e1-8d9b-cbb415d15622</guid>
-      <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81e1-8d9b-cbb415d15622/4170bbb0-ca77-81e1-8d9b-cbb415d15622.mp3" length="5801472" type="audio/mpeg"/>
-      <itunes:duration>338</itunes:duration>
     </item>
   </channel>
 </rss>
