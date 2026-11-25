@@ -19,6 +19,13 @@
       <itunes:duration>449</itunes:duration>
     </item>
     <item>
+      <title>The AI Daily Brief - What Happens to AI Now</title>
+      <guid isPermaLink="false">notion-4220bbb0-ca77-81fd-aaff-c9d89ca7a38f</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4220bbb0-ca77-81fd-aaff-c9d89ca7a38f/4220bbb0-ca77-81fd-aaff-c9d89ca7a38f.mp3" length="6047232" type="audio/mpeg"/>
+      <itunes:duration>359</itunes:duration>
+    </item>
+    <item>
       <title>Stuff You Should Know: Protein, Yes, But How Much?</title>
       <guid isPermaLink="false">notion-4220bbb0-ca77-8113-9fe5-d8459ac7a980</guid>
       <pubDate>Tue, 24 Nov 2026 11:34:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4170bbb0-ca77-81e1-8d9b-cbb415d15622/4170bbb0-ca77-81e1-8d9b-cbb415d15622.mp3" length="5801472" type="audio/mpeg"/>
       <itunes:duration>338</itunes:duration>
-    </item>
-    <item>
-      <title>Windows Weekly - Creamy Nougat Center - The Patch Parade Continues &amp; FilmCraft vs. Clipchamp</title>
-      <guid isPermaLink="false">notion-4160bbb0-ca77-81ca-94d7-dc696daca73a</guid>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4160bbb0-ca77-81ca-94d7-dc696daca73a/4160bbb0-ca77-81ca-94d7-dc696daca73a.mp3" length="7696896" type="audio/mpeg"/>
-      <itunes:duration>479</itunes:duration>
     </item>
   </channel>
 </rss>
