@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Windows Weekly - Is There a Worse Color Than Red - PowerShell 7 Coming to Windows 11</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-8142-81dc-ff3ca5d71af9</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-8142-81dc-ff3ca5d71af9/4240bbb0-ca77-8142-81dc-ff3ca5d71af9.mp3" length="6526080" type="audio/mpeg"/>
+      <itunes:duration>395</itunes:duration>
+    </item>
+    <item>
       <title>Barbell Medicine Direct Line: What the Back Experts Get Wrong (Stu McGill, Spinal Engine Theory, Eccentric Overload)</title>
       <guid isPermaLink="false">notion-4230bbb0-ca77-81d1-9eb4-dcdb6ec39dec</guid>
       <pubDate>Wed, 25 Nov 2026 12:10:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4180bbb0-ca77-81a8-94f3-c51ec5223d70/4180bbb0-ca77-81a8-94f3-c51ec5223d70.mp3" length="5927424" type="audio/mpeg"/>
       <itunes:duration>355</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - “We Won 3 Grammys and Still Felt Like Failures” - Dan + Shay (Live Performance)</title>
-      <guid isPermaLink="false">notion-4180bbb0-ca77-81ba-9729-e50a59155a49</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4180bbb0-ca77-81ba-9729-e50a59155a49/4180bbb0-ca77-81ba-9729-e50a59155a49.mp3" length="4993920" type="audio/mpeg"/>
-      <itunes:duration>320</itunes:duration>
     </item>
   </channel>
 </rss>
