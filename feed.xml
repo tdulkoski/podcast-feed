@@ -47,6 +47,13 @@
       <itunes:duration>377</itunes:duration>
     </item>
     <item>
+      <title>Real Python - Why Your LLM Forgets: Build an Agent Harness in Python</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-81d1-8a26-eaf7e7698536</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-81d1-8a26-eaf7e7698536/4240bbb0-ca77-81d1-8a26-eaf7e7698536.mp3" length="3386880" type="audio/mpeg"/>
+      <itunes:duration>237</itunes:duration>
+    </item>
+    <item>
       <title>Cybersecurity Where You Are, Episode 215: Preserving Human Dignity in the Age of AI</title>
       <guid isPermaLink="false">notion-4240bbb0-ca77-81d2-a8b0-ef4a047f171d</guid>
       <pubDate>Thu, 26 Nov 2026 11:01:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 16 Nov 2026 19:51:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-81f0-ad20-e6d68327f863/41a0bbb0-ca77-81f0-ad20-e6d68327f863.mp3" length="4372224" type="audio/mpeg"/>
       <itunes:duration>272</itunes:duration>
-    </item>
-    <item>
-      <title>Peter Attia, MD - 416 ‒ The science of mitochondria: their role in health, aging, disease, and much more</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-8114-a8f2-c2f79647ac20</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8114-a8f2-c2f79647ac20/41a0bbb0-ca77-8114-a8f2-c2f79647ac20.mp3" length="7983360" type="audio/mpeg"/>
-      <itunes:duration>438</itunes:duration>
     </item>
   </channel>
 </rss>
