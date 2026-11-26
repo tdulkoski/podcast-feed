@@ -19,6 +19,20 @@
       <itunes:duration>395</itunes:duration>
     </item>
     <item>
+      <title>Intelligent Machines Podcast - We Hardly Missed You - Jensen Huang’s Return, Anthropic’s IPO, and the Vatican’s AI</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-8107-b2c0-e008b9940087</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-8107-b2c0-e008b9940087/4240bbb0-ca77-8107-b2c0-e008b9940087.mp3" length="6498816" type="audio/mpeg"/>
+      <itunes:duration>395</itunes:duration>
+    </item>
+    <item>
+      <title>Barbell Medicine Direct Line: Your Knee Hurts. Do You Need Surgery? (Knee Arthritis, Injections, and ACL Rehab)</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-8172-a80c-eafdef1ace50</guid>
+      <pubDate>Thu, 26 Nov 2026 10:50:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-8172-a80c-eafdef1ace50/4240bbb0-ca77-8172-a80c-eafdef1ace50.mp3" length="4516224" type="audio/mpeg"/>
+      <itunes:duration>270</itunes:duration>
+    </item>
+    <item>
       <title>Barbell Medicine Direct Line: What the Back Experts Get Wrong (Stu McGill, Spinal Engine Theory, Eccentric Overload)</title>
       <guid isPermaLink="false">notion-4230bbb0-ca77-81d1-9eb4-dcdb6ec39dec</guid>
       <pubDate>Wed, 25 Nov 2026 12:10:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-811b-b9e5-f496458baa29/41a0bbb0-ca77-811b-b9e5-f496458baa29.mp3" length="7630848" type="audio/mpeg"/>
       <itunes:duration>459</itunes:duration>
-    </item>
-    <item>
-      <title>Every - Giving Everyone AI Tools Isn’t Enough</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-81b5-8df5-f1f6e719007c</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-81b5-8df5-f1f6e719007c/41a0bbb0-ca77-81b5-8df5-f1f6e719007c.mp3" length="6521088" type="audio/mpeg"/>
-      <itunes:duration>396</itunes:duration>
-    </item>
-    <item>
-      <title>Planet Money - Are wildfires making the future uninsurable?</title>
-      <guid isPermaLink="false">notion-4180bbb0-ca77-81a8-94f3-c51ec5223d70</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4180bbb0-ca77-81a8-94f3-c51ec5223d70/4180bbb0-ca77-81a8-94f3-c51ec5223d70.mp3" length="5927424" type="audio/mpeg"/>
-      <itunes:duration>355</itunes:duration>
     </item>
   </channel>
 </rss>
