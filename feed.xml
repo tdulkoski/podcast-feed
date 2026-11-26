@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>How Elf Became a Christmas Classic (Interview with Andy Richter)</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-81c3-b1c8-f015ab60dc5a</guid>
+      <pubDate>Thu, 26 Nov 2026 12:36:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-81c3-b1c8-f015ab60dc5a/4240bbb0-ca77-81c3-b1c8-f015ab60dc5a.mp3" length="3418752" type="audio/mpeg"/>
+      <itunes:duration>229</itunes:duration>
+    </item>
+    <item>
       <title>Windows Weekly - Is There a Worse Color Than Red - PowerShell 7 Coming to Windows 11</title>
       <guid isPermaLink="false">notion-4240bbb0-ca77-8142-81dc-ff3ca5d71af9</guid>
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
@@ -24,6 +31,13 @@
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-8107-b2c0-e008b9940087/4240bbb0-ca77-8107-b2c0-e008b9940087.mp3" length="6498816" type="audio/mpeg"/>
       <itunes:duration>395</itunes:duration>
+    </item>
+    <item>
+      <title>Cybersecurity Where You Are, Episode 215: Preserving Human Dignity in the Age of AI</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-81d2-a8b0-ef4a047f171d</guid>
+      <pubDate>Thu, 26 Nov 2026 11:01:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-81d2-a8b0-ef4a047f171d/4240bbb0-ca77-81d2-a8b0-ef4a047f171d.mp3" length="5380224" type="audio/mpeg"/>
+      <itunes:duration>343</itunes:duration>
     </item>
     <item>
       <title>Barbell Medicine Direct Line: Your Knee Hurts. Do You Need Surgery? (Knee Arthritis, Injections, and ACL Rehab)</title>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8128-b162-dc00690025a7/41a0bbb0-ca77-8128-b162-dc00690025a7.mp3" length="6208512" type="audio/mpeg"/>
       <itunes:duration>357</itunes:duration>
-    </item>
-    <item>
-      <title>Chris Williamson - The Strange Freedom To Be Disliked - James Blunt (4K)</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-812a-8cc3-f36607ea91fb</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-812a-8cc3-f36607ea91fb/41a0bbb0-ca77-812a-8cc3-f36607ea91fb.mp3" length="5592960" type="audio/mpeg"/>
-      <itunes:duration>358</itunes:duration>
-    </item>
-    <item>
-      <title>The AI Daily Brief - 7 Things AI-Native Companies Do Differently</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-811b-b9e5-f496458baa29</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-811b-b9e5-f496458baa29/41a0bbb0-ca77-811b-b9e5-f496458baa29.mp3" length="7630848" type="audio/mpeg"/>
-      <itunes:duration>459</itunes:duration>
     </item>
   </channel>
 </rss>
