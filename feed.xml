@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Should You Sleep in 90-Minute Cycles? Plus Ground Beef, Doctor Visits and Vacation Protein</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-815c-918c-d491477513ca</guid>
+      <pubDate>Thu, 26 Nov 2026 18:55:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-815c-918c-d491477513ca/4240bbb0-ca77-815c-918c-d491477513ca.mp3" length="4851456" type="audio/mpeg"/>
+      <itunes:duration>339</itunes:duration>
+    </item>
+    <item>
       <title>How Elf Became a Christmas Classic (Interview with Andy Richter)</title>
       <guid isPermaLink="false">notion-4240bbb0-ca77-81c3-b1c8-f015ab60dc5a</guid>
       <pubDate>Thu, 26 Nov 2026 12:36:00 +0000</pubDate>
@@ -31,6 +38,13 @@
       <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-8107-b2c0-e008b9940087/4240bbb0-ca77-8107-b2c0-e008b9940087.mp3" length="6498816" type="audio/mpeg"/>
       <itunes:duration>395</itunes:duration>
+    </item>
+    <item>
+      <title>Chris Williamson - Q&amp;A: Age Gaps, Sexual Frustration &amp; Performance Anxiety</title>
+      <guid isPermaLink="false">notion-4240bbb0-ca77-8115-8e94-f65f1bbeb99f</guid>
+      <pubDate>Thu, 26 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4240bbb0-ca77-8115-8e94-f65f1bbeb99f/4240bbb0-ca77-8115-8e94-f65f1bbeb99f.mp3" length="6081792" type="audio/mpeg"/>
+      <itunes:duration>377</itunes:duration>
     </item>
     <item>
       <title>Cybersecurity Where You Are, Episode 215: Preserving Human Dignity in the Age of AI</title>
@@ -346,20 +360,6 @@
       <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8114-a8f2-c2f79647ac20/41a0bbb0-ca77-8114-a8f2-c2f79647ac20.mp3" length="7983360" type="audio/mpeg"/>
       <itunes:duration>438</itunes:duration>
-    </item>
-    <item>
-      <title>EconTalk - Revisiting the China Shock (with Joseph Francis) 11/2/26</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-8174-8ef4-cfa024233c09</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8174-8ef4-cfa024233c09/41a0bbb0-ca77-8174-8ef4-cfa024233c09.mp3" length="6652800" type="audio/mpeg"/>
-      <itunes:duration>382</itunes:duration>
-    </item>
-    <item>
-      <title>Huberman Lab - Mushrooms for the Mind &amp; Immune System | Paul Stamets</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-8128-b162-dc00690025a7</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8128-b162-dc00690025a7/41a0bbb0-ca77-8128-b162-dc00690025a7.mp3" length="6208512" type="audio/mpeg"/>
-      <itunes:duration>357</itunes:duration>
     </item>
   </channel>
 </rss>
