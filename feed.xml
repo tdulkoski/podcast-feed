@@ -19,6 +19,20 @@
       <itunes:duration>362</itunes:duration>
     </item>
     <item>
+      <title>Real Python - Optimizing Python Performance &amp; Building a Django Static Site| Real Python Podcast #320</title>
+      <guid isPermaLink="false">notion-4250bbb0-ca77-8194-aa85-e18dfb9bfd3c</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4250bbb0-ca77-8194-aa85-e18dfb9bfd3c/4250bbb0-ca77-8194-aa85-e18dfb9bfd3c.mp3" length="7507200" type="audio/mpeg"/>
+      <itunes:duration>447</itunes:duration>
+    </item>
+    <item>
+      <title>The AI Daily Brief - AI is Too Big to Fail</title>
+      <guid isPermaLink="false">notion-4250bbb0-ca77-8173-949d-e5247ea28bac</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4250bbb0-ca77-8173-949d-e5247ea28bac/4250bbb0-ca77-8173-949d-e5247ea28bac.mp3" length="8225280" type="audio/mpeg"/>
+      <itunes:duration>490</itunes:duration>
+    </item>
+    <item>
       <title>Should You Sleep in 90-Minute Cycles? Plus Ground Beef, Doctor Visits and Vacation Protein</title>
       <guid isPermaLink="false">notion-4240bbb0-ca77-815c-918c-d491477513ca</guid>
       <pubDate>Thu, 26 Nov 2026 18:55:00 +0000</pubDate>
@@ -346,20 +360,6 @@
       <pubDate>Tue, 17 Nov 2026 11:57:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41b0bbb0-ca77-8164-ac30-ca4e51f6e969/41b0bbb0-ca77-8164-ac30-ca4e51f6e969.mp3" length="4227456" type="audio/mpeg"/>
       <itunes:duration>262</itunes:duration>
-    </item>
-    <item>
-      <title>Tim Miller: The Hardest Part of Questioning What You Believe</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0</guid>
-      <pubDate>Mon, 16 Nov 2026 23:54:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0/41a0bbb0-ca77-8162-98a7-d8d4cbbbdbc0.mp3" length="4780032" type="audio/mpeg"/>
-      <itunes:duration>312</itunes:duration>
-    </item>
-    <item>
-      <title>The Drive: Navdeep Chandel on Mitochondria, Metformin and Supplements</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-8135-bded-da974fc8f97b</guid>
-      <pubDate>Mon, 16 Nov 2026 20:15:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8135-bded-da974fc8f97b/41a0bbb0-ca77-8135-bded-da974fc8f97b.mp3" length="4573056" type="audio/mpeg"/>
-      <itunes:duration>249</itunes:duration>
     </item>
   </channel>
 </rss>
