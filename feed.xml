@@ -12,6 +12,13 @@
       <link>https://tdulkoski.github.io/podcast-feed</link>
     </image>
     <item>
+      <title>Morgan Stanley's Andrew Slimmon on Following the Earnings, Not the Headlines</title>
+      <guid isPermaLink="false">notion-4250bbb0-ca77-8167-8dd2-d5e5b6f9957e</guid>
+      <pubDate>Fri, 27 Nov 2026 14:27:00 +0000</pubDate>
+      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-4250bbb0-ca77-8167-8dd2-d5e5b6f9957e/4250bbb0-ca77-8167-8dd2-d5e5b6f9957e.mp3" length="5848320" type="audio/mpeg"/>
+      <itunes:duration>362</itunes:duration>
+    </item>
+    <item>
       <title>Should You Sleep in 90-Minute Cycles? Plus Ground Beef, Doctor Visits and Vacation Protein</title>
       <guid isPermaLink="false">notion-4240bbb0-ca77-815c-918c-d491477513ca</guid>
       <pubDate>Thu, 26 Nov 2026 18:55:00 +0000</pubDate>
@@ -353,13 +360,6 @@
       <pubDate>Mon, 16 Nov 2026 20:15:00 +0000</pubDate>
       <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-8135-bded-da974fc8f97b/41a0bbb0-ca77-8135-bded-da974fc8f97b.mp3" length="4573056" type="audio/mpeg"/>
       <itunes:duration>249</itunes:duration>
-    </item>
-    <item>
-      <title>Barbell Medicine Reviews Huberman's Protocols Book</title>
-      <guid isPermaLink="false">notion-41a0bbb0-ca77-81f0-ad20-e6d68327f863</guid>
-      <pubDate>Mon, 16 Nov 2026 19:51:00 +0000</pubDate>
-      <enclosure url="https://github.com/tdulkoski/podcast-feed/releases/download/ep-41a0bbb0-ca77-81f0-ad20-e6d68327f863/41a0bbb0-ca77-81f0-ad20-e6d68327f863.mp3" length="4372224" type="audio/mpeg"/>
-      <itunes:duration>272</itunes:duration>
     </item>
   </channel>
 </rss>
